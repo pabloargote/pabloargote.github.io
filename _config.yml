@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Pablo Argote / PhD Candidate in Political Science at Columbia University"
+title                    : "Pablo Argote, PhD Candidate / MPA"
 title_separator          : "-"
 name                     : &name "Pablo Argote"
 description              : &description "personal description"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Pablo Argote"
   avatar           : "profile.png"
-  bio              : "PhD Candidate in Political Science"
+  bio              : "PhD Candidate in Political Science at Columbia University"
   location         : "Location"
   employer         :
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
