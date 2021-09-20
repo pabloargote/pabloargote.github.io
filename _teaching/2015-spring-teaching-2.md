@@ -1,20 +1,16 @@
----
-title: "Teaching experience 2"
-collection: teaching
-type: "Workshop"
-permalink: /teaching/2015-spring-teaching-1
-venue: "University 1, Department"
-date: 2015-01-01
-location: "City, Country"
----
 
-This is a description of a teaching experience. You can use markdown like any other post.
+## At Columbia
 
-Heading 1
-======
+“Principles of Quantitative Political Research I”, Department of Political Science, Undergraduate Level, Spring 2021. Instructor: professor Robert Shapiro.
 
-Heading 2
-======
+"Research Design: Data Analysis”, Department of Political Science, Undergraduate Level, Fall 2020. Instructor: Shigeo Hirano.
 
-Heading 3
-======
+“Applied Regression and Causal Inference”, Department of Political Science, PhD Level, Spring 2020. Instructor:  Andrew Gelman.
+
+“Multivariate Political Analysis”, Department of Political Science, PhD Level, Fall 2019 and 2018. Instructor: Shigeo Hirano.
+
+“Scope and Methods”, Department of Political Science, Undergraduate Level, Spring 2018. Instructor: Dan Corstange.\\&\\
+
+## At Universidad Catolica de Chile
+  
+“Introduction to Political Theory”, Department of Political Science, Pontificia Universidad Católica de Chile, 2008-2010,  Undergraduate Level.
