@@ -1,10 +1,9 @@
 ---
-title: "Principles of Quantitative Political Research I"
+title: "Teaching experience 1"
 collection: teaching
-type: "Undergraduate"
+type: "Undergraduate course"
 permalink: /teaching/2014-spring-teaching-1
-venue: "Department of Political Science, Columbia University"
-date: Spring 2021
+venue: "University 1, Department"
+date: 2014-01-01
 location: "City, Country"
 ---
-
