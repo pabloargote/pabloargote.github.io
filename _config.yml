@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "R. Stuart Geiger"
+title                    : "Pablo Argote PhD Candidate / MPA"
 title_separator          : "-"
-name                     : &name "R. Stuart Geiger"
-description              : &description "computational ethnographer<br/>ethnographer of computation"
+name                     : &name "Pablo Argote"
+description              : &description "PhD Candidate in Political Science, Columbia University"
 url                      : https://stuartgeiger.com # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "staeiou/staeiou.github.io"
+repository               : "pabloargote/pabloargote.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -49,14 +49,14 @@ read_more                : "enabled" # if enabled, adds a "read more" link to ex
 future                   : true
 
 # SEO Related
-google_site_verification : "3hdu0GcCfjZ6WbPpApjcdcEGjsCPDcDn1QLtBm-DRBg"
+google_site_verification : 
 bing_site_verification   :
 alexa_site_verification  :
 yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : &twitter "staeiou"
+  username               : &twitter "@PabloArgoteT"
 facebook:
   username               : 
   app_id                 :
@@ -78,14 +78,14 @@ analytics:
 
 # Site Author
 author:
-  name             : "R. Stuart Geiger"
+  name             : "Pablo Argote"
   avatar           : "profile.png"
 #  bio              : "Ethnographer of computation and computational ethnographer. <br> <br> Assistant Professor at UC San Diego: <ul><li><a style='color: black;' href='http://communication.ucsd.edu'>Department of Communication</a></li> <li><a style='color: black;' href='http://hdsi.ucsd.edu'>Halıcıoğlu Data Science Institute</a></li></ul>"
 #  bio              : "Ethnographer of computation and computational ethnographer. <br> <br> Assistant Professor at UC San Diego, in <ul> <li><a style="color: black;" href="http://communication.ucsd.edu">Department of Communication</a></li> <li><a style="color: black;" href="http://hdsi.ucsd.edu">Halıcıoğlu Data Science Institute</a></li> <li><a style="color: black;" href="http://ipe.ucsd.edu">Institute for Practical Ethics</a></li> </ul>"
-  bio              : "Ethnographer of computation and computational ethnographer <br> <br> Assistant Professor at UC San Diego, <a style='color: black;' href='http://communication.ucsd.edu'>Department of Communication</a> & <a style='color: black;' href='http://hdsi.ucsd.edu'>Halıcıoğlu Data Science Institute</a>"
-  location         : "Berkeley, CA"
+  bio              : 
+  location         : 
   employer         : 
-  googlescholar    : "https://scholar.google.com/citations?user=0AvWi3wAAAAJ&hl=en"
+  googlescholar    : 
   email            :
   uri              : 
   bitbucket        :
@@ -94,13 +94,13 @@ author:
   flickr           :
   facebook         : 
   foursquare       :
-  github           : "staeiou"
+  github           : "pabloargote"
   google_plus      :
   keybase          :
   instagram        : 
   lastfm           :
   linkedin         :
-  orcid            : "http://orcid.org/0000-0001-7215-0532"
+  orcid            : 
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
@@ -111,7 +111,7 @@ author:
   weibo            :
   xing             :
   youtube          :
-  wikipedia        : "staeiou"
+  wikipedia        : 
 
 
 # Reading Files
