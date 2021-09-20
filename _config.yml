@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Pablo Argote, PhD Candidate / MPA"
+title                    : "Pablo Argote PhD Candidate / MPA"
 title_separator          : "-"
 name                     : &name "Pablo Argote"
 description              : &description "personal description"
