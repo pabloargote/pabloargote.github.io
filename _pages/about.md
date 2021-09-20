@@ -12,4 +12,4 @@ Welcome! I am Pablo Argote, PhD Candidate in Political Science at Columbia Unive
 
 A second strand explores how sudden demographic changes affects attitudes and voting behavior. I study these topics using a variety of quantitative methods, including experiments, quasi-experimental designs and text analysis, always prioritizing causal identification. My research has been published in the European Political Science Review, the Journal of Politics in Latin America, in Nature Partner Journal Vaccines, among others.
 
-Before my PhD, I worked in the Chilean government, in a political campaign and I did a Master in Public Administration at NYU.  
+Before my PhD, I worked in the Chilean government, in a political campaign and completed a Master in Public Administration at NYU.  
