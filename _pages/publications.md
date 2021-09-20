@@ -15,6 +15,6 @@ of Latin American Studies, 1-25.
 Argote, Pablo (2020). Incumbency Advantage and Shocks in the Electorate: the Adoption of Voluntary
 Voting. European Political Science Review, 12(2), 173-197.
 
-Argote, Pablo. and Navia, Patricio (2018). “Do voters affect or elect policies: within-coalition competition in the Chilean Electoral System, in: Journal of Politics in Latin America, 10, 1, 3–28.
+Argote, Pablo. and Navia, Patricio (2018). “Do Voters Affect or Elect Policies: Within-Coalition Competition in the Chilean Electoral System, in: Journal of Politics in Latin America, 10, 1, 3–28.
 
 
