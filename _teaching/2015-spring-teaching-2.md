@@ -5,7 +5,7 @@ type: "Workshop"
 permalink: /teaching/2015-spring-teaching-1
 venue: "Department of Political Science, Columbia University"
 date: 2020-09-01
-location: "City, Country"
+location: "New York, United States"
 ---
 
 
