@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Pablo Argote"
-  avatar           : "pabloargote.github.io/images/profile.png"
+  avatar           : "profile.png"
   bio              : "PhD Candidate in Political Science at Columbia University"
   location         : 
   employer         :
@@ -182,8 +182,8 @@ collections:
     output: true
     permalink: /:collection/:path/
   portfolio:
-    output: true
-    permalink: /:collection/:path/
+    output: 
+    permalink: 
   talks:
     output: true
     permalink: /:collection/:path/
@@ -227,15 +227,6 @@ defaults:
       author_profile: true
       share: true
       comments: true
-  # _portfolio
-  - scope:
-      path: ""
-      type: portfolio
-    values:
-      layout: single
-      author_profile: true
-      share: true
-      comment: true
   # _talks
   - scope:
       path: ""
