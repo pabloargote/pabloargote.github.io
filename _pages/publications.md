@@ -23,7 +23,7 @@ Argote, Pablo. and Navia, Patricio (2018). “Do Voters Affect or Elect Policies
 "We Want Our Mayor: How Political Experience Mitigates School Disruption on Children Outcomes",
 with Manuel Alcaino (revise and resubmit).
 
-"Messaging interventions that increase COVID-19 vaccine willingness in Latin America", with John
+"Messaging Interventions that Increase COVID-19 Vaccine Willingness in Latin America", with John
 Marshall, Sarah Daly, Oscar Pocasangre, Elena Barham and Julián Gerez (revise and resubmit).
 
 "From Fraternity to Xenophobia: The Formation of Attitudes Toward Immigration in Colombia", with
