@@ -1,4 +1,8 @@
 
+---
+collection: teaching
+---
+
 ## At Columbia
 
 “Principles of Quantitative Political Research I”, Department of Political Science, Undergraduate Level, Spring 2021. Instructor: professor Robert Shapiro.
