@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Peer-reviewed publications"
+title: "Teaching"
 permalink: /teaching/
 author_profile: true
 ---
