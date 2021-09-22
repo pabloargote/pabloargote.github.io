@@ -10,7 +10,7 @@ author_profile: true
 
  “Principles of Quantitative Political Research I”, Department of Political Science, Undergraduate level, Spring 2021. Instructor: Robert Shapiro.
 
-"Research Design: Data Analysis”, Department of Political Science, Undergraduate level, Fall 2020. Instructor Shigeo Hirano.
+"Research Design: Data Analysis”, Department of Political Science, Undergraduate level, Fall 2020. Instructor: Shigeo Hirano.
 
 “Applied Regression and Causal Inference”, Department of Political Science, PhD level, Spring 2020. Instructor: Andrew Gelman.
 
