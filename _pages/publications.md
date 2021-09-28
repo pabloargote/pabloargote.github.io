@@ -24,7 +24,7 @@ Argote, Pablo. and Navia, Patricio (2018). “Do Voters Affect or Elect Policies
 with Manuel Alcaino (revise and resubmit).
 
 "Messaging Interventions that Increase COVID-19 Vaccine Willingness in Latin America", with John
-Marshall, Sarah Daly, Oscar Pocasangre, Elena Barham and Julián Gerez (revise and resubmit).
+Marshall, Sarah Daly, Oscar Pocasangre, Elena Barham and Julián Gerez (revise and resubmit). Paper [here.](https://github.com/pabloargote/pabloargote.github.io/blob/master/files/hesitancy_draft.pdf)
 
 "From Fraternity to Xenophobia: The Formation of Attitudes Toward Immigration in Colombia", with
 Sarah Daly (under review).
