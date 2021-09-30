@@ -17,7 +17,6 @@ Voting." European Political Science Review, 12(2), 173-197. Paper [here.](https:
 
 Argote, Pablo. and Navia, Patricio (2018). “Do Voters Affect or Elect Policies: Within-Coalition Competition in the Chilean Electoral System." Journal of Politics in Latin America, 10, 1, 3–28. Paper [here.](https://journals.sagepub.com/doi/full/10.1177/1866802X1801000101)
 
-
 ## Working papers
 
 "We Want Our Mayor: How Political Experience Mitigates School Disruption on Children Outcomes",
