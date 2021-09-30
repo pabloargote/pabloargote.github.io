@@ -7,7 +7,7 @@ author_profile: true
 
 Argote, Pablo, John Marshall, Sarah Daly, Oscar Pocasangre, Elena Barham and Julián Gerez (2021).
 "The Shot, the Message, and the Messenger: COVID-19 Vaccine Acceptance in Latin America." Nature
-Partner Journals Vaccines.
+Partner Journals Vaccines. Paper [here.](https://www.nature.com/articles/s41541-021-00380-x.epdf?sharing_token=DFKROPWaK32LiwMI3EbnxNRgN0jAjWel9jnR3ZoTv0NXwi43hFNbiJlbIemnlRXELBSYKX8R8QLIPgbIByc69N-eyIWucET41EwVTo2FqqYXn4vvJV_iPcs8Sc4HJPuHrUkQjpy1E1Ys04vUdX17zU7sxasbITrDQgSjQYkUUak%3D)
 
 Argote, Pablo (2021). "Does Voluntary Voting Enhance Partisan Bias? Evidence from Chile." Journal
 of Latin American Studies, 1-25. Paper [here.](https://www.cambridge.org/core/journals/journal-of-latin-american-studies/article/abs/does-voluntary-voting-enhance-partisan-bias-evidence-from-chile/677BC4681C351B6CC17D8EAB868513C6)
