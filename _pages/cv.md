@@ -9,4 +9,4 @@ redirect_from:
 
 {% include base_path %}
 
-You can find my CV [here.](https://github.com/pabloargote/pabloargote.github.io/raw/master/files/CV.pdf)
+You can find my updated CV [here.](https://github.com/pabloargote/pabloargote.github.io/raw/master/files/CV.pdf)
