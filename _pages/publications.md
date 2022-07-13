@@ -21,7 +21,7 @@ Argote, Pablo and Navia, Patricio (2018). “Do Voters Affect or Elect Policies:
 
 ## Job Market Paper
 
-"The Internet, Social Media and Elite Extremeness: Evidence from Chile". Working paper [here.]
+"The Internet, Social Media and Elite Extremeness: Evidence from Chile". Working paper [here.](https://github.com/pabloargote/pabloargote.github.io/blob/master/files/JMP_PA_July22.pdf)
 
 
 ## Working papers
@@ -34,4 +34,4 @@ Sarah Daly (under review).
 
 "Understanding the Impact of South-South Migration", with Lucas Perelló (under review).
 
-“The impact of Mayor’s turnover on educational outcomes", with Manuel Alcaino and Juan Matta
+“Internet Access and Gender Attitudes: Evidence from Latin America", with Daniela Urbina.
