@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Welcome! I am Pablo Argote, PhD Candidate in Political Science at Columbia University. My research lies at the intersection of Comparative Politics and Political Economy, with a regional focus on Latin America. 
+Welcome! I am Pablo Argote, PhD in Political Science at Columbia University. My research lies at the intersection of Comparative Politics and Political Economy, with a regional focus on Latin America. 
 
 My dissertation explores how the internet and social media impact political elites. I argue that heavy exposure to social media increases ideological extremeness among politicians via two channels. First, if the internet causes a decline in citizens’ pro-democratic attitudes, politicians could respond to their constituencies by adopting more extreme positions. Second, if social media reward negative and angry messages, politicians could move to more radical positions in the offline domain, as they might be afraid of bad publicity by upsetting their online followers.
 
