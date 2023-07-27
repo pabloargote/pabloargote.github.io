@@ -23,13 +23,13 @@ Argote, Pablo and Navia, Patricio (2018). “Do Voters Affect or Elect Policies:
 
 "The Internet, Social Media and Elite Extremeness: Evidence from Chile". Working paper [here.](https://github.com/pabloargote/pabloargote.github.io/blob/master/files/jmp.pdf)
 
-## Working papers
+## Work in Progress
 
-"We Want Our Mayor: How Political Experience Mitigates School Disruption on Children Outcomes",
-with Manuel Alcaino (Conditionally Accepted).
+"Politics Matter: How Political Experience Mitigates School Disruption on Children Outcomes", with Manuel Alcaino (Conditionally accepted).
 
-"From Fraternity to Xenophobia: The Formation of Attitudes Toward Immigration in Colombia", with
-Sarah Daly (under review).
+"From Fraternity to Xenophobia: The Formation of Attitudes Toward Immigration in Colombia", with Sarah Daly (Revise and resubmit).
+
+"Anti-Elite Attitudes and Support for Independent Candidates), with Giancarlo Visconti (Revise and resubmit).
 
 "Understanding the Impact of South-South Migration", with Lucas Perelló (under review).
 
