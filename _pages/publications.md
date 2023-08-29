@@ -35,10 +35,12 @@ Argote, Pablo and Eguiguren, José (2022). "Modelos de Democracia y Sistema Pol�
 
 "From Fraternity to Xenophobia: The Formation of Attitudes Toward Immigration in Colombia", with Sarah Daly (Revise and resubmit).
 
-"Anti-Elite Attitudes and Support for Independent Candidates), with Giancarlo Visconti (Revise and resubmit).
+"Anti-Elite Attitudes and Support for Independent Candidates", with Giancarlo Visconti (Revise and resubmit).
 
 "Understanding the Impact of South-South Migration", with Lucas Perelló (Revise and resubmit).
 
 "Interventions to Counter Misinformation: Lessons from the Global North and Applications to the Global South", with Rob Blair, Jessica Gottlieb, Charlene Stainfield, Laura Paler, and Brendan Nyhan.
+
+"Ideological vs. Issue Voting: Evidence from Chile", with Giancarlo Visconti.
 
 “Internet Access and Gender Attitudes: Evidence from Latin America", with Daniela Urbina.
