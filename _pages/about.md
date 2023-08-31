@@ -14,6 +14,6 @@ My dissertation explores how the internet and social media impact political elit
 
 In other projects, I look at how politicians adopt strategies in response to changes in electoral laws, shocks in the electorate and alterations in the informational environment. I also explore the impact of immigration on political attitudes in the global south.
 
-I study these topics using a variety of quantitative methods, including experiments, quasi-experimental designs and text analysis, always prioritizing causal identification. My research has been published in the European Political Science Review, the Journal of Politics in Latin America, Nature Partner Journal Vaccines, among others.
+I study these topics using a variety of quantitative methods, including experiments, quasi-experimental designs and text analysis, always prioritizing causal identification. My research has been published in Plos One, the European Political Science Review, the Journal of Politics in Latin America, Nature Partner Journal Vaccines, among others.
 
 Before my PhD, I worked in the Chilean government, in a political campaign, and completed a Master in Public Administration at NYU.  
