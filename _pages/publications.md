@@ -26,9 +26,9 @@ Argote, Pablo and Navia, Patricio (2018). “Do Voters Affect or Elect Policies:
 
 ## Book Chapters (In Spanish)
 
-Argote, Pablo (2022). "Propuestas para Mejorar el Presidencialismo Multi-Partidista", in Partidos Políticos en Chile: Aportes y propuestas para su fortalecimiento y modernización, Centro de Estudios del Desarrollo and Konrad Adenauer Foundation.
+Argote, Pablo (2022). "Propuestas para Mejorar el Presidencialismo Multi-Partidista", in Partidos Políticos en Chile: Aportes y propuestas para su fortalecimiento y modernización, Centro de Estudios del Desarrollo and Konrad Adenauer Foundation. Book [here.](https://www.academia.edu/90469972/SISTEMA_DE_PARTIDOS_EN_CHILE_REGULACI%C3%93N_Y_DESAF%C3%8DOS_DEL_PROCESO_CONSTITUCIONAL?f_ri=173501)
 
-Argote, Pablo and Eguiguren, José (2022). "Modelos de Democracia y Sistema Político", in Diálogos Constitucionales: Sistema Político, Descentralización y Control Constitucional, Centro de Estudios del Desarrollo and Konrad Adenauer Foundation.
+Argote, Pablo and Eguiguren, José (2022). "Modelos de Democracia y Sistema Político", in Diálogos Constitucionales: Sistema Político, Descentralización y Control Constitucional, Centro de Estudios del Desarrollo and Konrad Adenauer Foundation. Book [here.](https://www.ced.cl/cedcl/wp-content/uploads/2022/01/CED-2022-Dia%CC%81logos-Constitucionales-Sist-Poli%CC%81tico-Desc-y-Control-Const.pdf?fbclid=IwAR2EPSYKUZJM7GLTN5PSHFCtuz6pg7d4-VxGXoc-gti9UAR1xwKPYqa-RnA)
 
 
 ## Work in Progress
