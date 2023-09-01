@@ -27,7 +27,7 @@ Argote, Pablo and Eguiguren, Jos√© (2022). "Modelos de Democracia y Sistema Pol√
 
 ## Job Market Paper
 
-"The Internet, Social Media and Elite Extremeness: Evidence from Chile". Working paper [here.](https://github.com/pabloargote/pabloargote.github.io/blob/master/files/jmp.pdf)
+"The Internet, Social Media and Elite Extremeness: Evidence from Chile". Working paper [here.](https://github.com/pabloargote/pabloargote.github.io/blob/master/files/social_media_elites.pdf) Appendix[here.] (https://github.com/pabloargote/pabloargote.github.io/blob/master/files/appendix.pdf) 
 
 ## Work in Progress
 
