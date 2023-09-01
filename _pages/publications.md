@@ -21,7 +21,7 @@ Argote, Pablo and Navia, Patricio (2018). “Do Voters Affect or Elect Policies:
 
 ## Job Market Paper
 
-"The Internet, Social Media and Elite Extremeness: Evidence from Chile". Working paper [here.](https://github.com/pabloargote/pabloargote.github.io/blob/master/files/social_media_elites.pdf). Appendix [here.] (https://github.com/pabloargote/pabloargote.github.io/blob/master/files/appendix.pdf) 
+"The Impact of Social Media on Political Elites". Working paper [here.](https://github.com/pabloargote/pabloargote.github.io/blob/master/files/social_media_elites.pdf) Appendix [here.](https://github.com/pabloargote/pabloargote.github.io/blob/master/files/appendix.pdf) 
 
 
 ## Book Chapters (In Spanish)
