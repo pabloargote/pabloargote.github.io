@@ -19,15 +19,17 @@ Voting." European Political Science Review, 12(2), 173-197. Paper [here.](https:
 
 Argote, Pablo and Navia, Patricio (2018). “Do Voters Affect or Elect Policies: Within-Coalition Competition in the Chilean Electoral System." Journal of Politics in Latin America, 10, 1, 3–28. Paper [here.](https://journals.sagepub.com/doi/full/10.1177/1866802X1801000101)
 
+## Job Market Paper
+
+"The Internet, Social Media and Elite Extremeness: Evidence from Chile". Working paper [here.](https://github.com/pabloargote/pabloargote.github.io/blob/master/files/social_media_elites.pdf). Appendix [here.] (https://github.com/pabloargote/pabloargote.github.io/blob/master/files/appendix.pdf) 
+
+
 ## Book Chapters (In Spanish)
 
 Argote, Pablo (2022). "Propuestas para Mejorar el Presidencialismo Multi-Partidista", in Partidos Políticos en Chile: Aportes y propuestas para su fortalecimiento y modernización, Centro de Estudios del Desarrollo and Konrad Adenauer Foundation.
 
 Argote, Pablo and Eguiguren, José (2022). "Modelos de Democracia y Sistema Político", in Diálogos Constitucionales: Sistema Político, Descentralización y Control Constitucional, Centro de Estudios del Desarrollo and Konrad Adenauer Foundation.
 
-## Job Market Paper
-
-"The Internet, Social Media and Elite Extremeness: Evidence from Chile". Working paper [here.](https://github.com/pabloargote/pabloargote.github.io/blob/master/files/social_media_elites.pdf) Appendix[here.] (https://github.com/pabloargote/pabloargote.github.io/blob/master/files/appendix.pdf) 
 
 ## Work in Progress
 
