@@ -33,7 +33,7 @@ Argote, Pablo and Eguiguren, Jos√© (2022). "Modelos de Democracia y Sistema Pol√
 
 ## Work in Progress
 
-"Politics Matter: How Political Experience Mitigates School Disruption on Children Outcomes", with Manuel Alcaino (Conditionally accepted).
+"Politics Matter: How Political Experience Mitigates School Disruption on Children Outcomes", with Manuel Alcaino (Accepted).
 
 "From Fraternity to Xenophobia: The Formation of Attitudes Toward Immigration in Colombia", with Sarah Daly (Revise and resubmit).
 
@@ -41,7 +41,7 @@ Argote, Pablo and Eguiguren, Jos√© (2022). "Modelos de Democracia y Sistema Pol√
 
 "Understanding the Impact of South-South Migration", with Lucas Perell√≥ (Revise and resubmit).
 
-"Interventions to Counter Misinformation: Lessons from the Global North and Applications to the Global South", with Rob Blair, Jessica Gottlieb, Charlene Stainfield, Laura Paler, and Brendan Nyhan.
+"Interventions to Counter Misinformation: Lessons from the Global North and Applications to the Global South", with Rob Blair, Jessica Gottlieb, Charlene Stainfield, Laura Paler, and Brendan Nyhan (Under Review).
 
 "Ideological vs. Issue Voting: Evidence from Chile", with Giancarlo Visconti.
 
