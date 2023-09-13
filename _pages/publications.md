@@ -33,13 +33,13 @@ Argote, Pablo and Eguiguren, José (2022). "Modelos de Democracia y Sistema Pol�
 
 ## Work in Progress
 
-"Politics Matter: How Political Experience Mitigates School Disruption on Children Outcomes", with Manuel Alcaino (Accepted).
+"Anti-Elite Attitudes and Support for Independent Candidates", with Giancarlo Visconti (Forthcoming in Plos One).
 
-"From Fraternity to Xenophobia: The Formation of Attitudes Toward Immigration in Colombia", with Sarah Daly (Revise and resubmit).
+"Politics Matter: How Political Experience Mitigates School Disruption on Children Outcomes", with Manuel Alcaino (Accepted in The Russell Sage Foundation Journal of the Social Sciences ).
 
-"Anti-Elite Attitudes and Support for Independent Candidates", with Giancarlo Visconti (Revise and resubmit).
+"From Fraternity to Xenophobia: The Formation of Attitudes Toward Immigration in Colombia", with Sarah Daly (Revise and resubmit in International Interactions).
 
-"Understanding the Impact of South-South Migration", with Lucas Perelló (Revise and resubmit).
+"Understanding the Impact of South-South Migration", with Lucas Perelló (Revise and resubmit in the Journal of International Migration and Integration).
 
 "Interventions to Counter Misinformation: Lessons from the Global North and Applications to the Global South", with Rob Blair, Jessica Gottlieb, Charlene Stainfield, Laura Paler, and Brendan Nyhan (Under Review).
 
