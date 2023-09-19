@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Welcome! I am Pablo Argote, Provost Postdoctoral Scholar in the Political Science Department at the University of Southern California. I study comparative political behavior, focusing on voters and elites, with a regional focus on Latin America. 
+Welcome! I am Pablo Argote, Provost Postdoctoral Scholar in the Political Science Department at the University of Southern California. I study comparative political behavior, for both voters and elites, with a regional focus on Latin America. 
 
 My dissertation explored how the internet and social media impact political elites. I argue that heavy exposure to social media increases ideological extremism among politicians via two channels. First, if the internet causes a decline in citizens’ pro-democratic attitudes, politicians could respond to their constituencies by adopting more extreme positions. Second, if social media rewards negative and angry messages, politicians could move to more radical positions offline, as they might be afraid of bad publicity by upsetting their online followers.
 
