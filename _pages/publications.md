@@ -7,6 +7,8 @@ author_profile: true
 
 "Anti-Elite Attitudes and Support for Independent Candidates", with Giancarlo Visconti (Forthcoming in Plos One).
 
+"Politics Matter: How Political Experience Mitigates School Disruption on Children Outcomes", with Manuel Alcaino (Forthcoming in The Russell Sage Foundation Journal of the Social Sciences).
+
 Argote, Pablo, John Marshall, Sarah Daly, Oscar Pocasangre, Elena Barham and Julián Gerez (2021).
 "Messaging Interventions that Increase COVID-19 Vaccine Willingness in Latin America".  Plos One 16(10). Paper [here.](https://github.com/pabloargote/pabloargote.github.io/blob/master/files/hesitancy_draft.pdf)
 
@@ -34,8 +36,6 @@ Argote, Pablo and Eguiguren, José (2022). "Modelos de Democracia y Sistema Pol�
 
 
 ## Work in Progress
-
-"Politics Matter: How Political Experience Mitigates School Disruption on Children Outcomes", with Manuel Alcaino (Accepted in The Russell Sage Foundation Journal of the Social Sciences ).
 
 "From Fraternity to Xenophobia: The Formation of Attitudes Toward Immigration in Colombia", with Sarah Daly (Revise and resubmit in International Interactions).
 
