@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "Media"
-permalink: /publications/
+permalink: /media/
 author_profile: true
 ---
 ## In Spanish
