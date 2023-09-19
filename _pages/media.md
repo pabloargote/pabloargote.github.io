@@ -8,7 +8,7 @@ author_profile: true
 
 ### Interview
 
-Los cambios institucionales se hacen sobre un legado; el nuestro es el presidncialismo, December 28, 2021. Link [here.](https://digital.lasegunda.com/2021/12/29/A/0U42MDEO#zoom=page-width)
+Los cambios institucionales se hacen sobre un legado; el nuestro es el presidencialismo, La Segunda, December 28, 2021. Link [here.](https://digital.lasegunda.com/2021/12/29/A/0U42MDEO#zoom=page-width)
 
 ### Media Articles in Spanish
 
