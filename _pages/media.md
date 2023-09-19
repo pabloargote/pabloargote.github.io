@@ -28,7 +28,7 @@ author_profile: true
 
 "¿Que Pasa con los Incumbentes Cuando Cambia el Electorado?" Contrafactual, March 20, 2020. Link [here](http://contrafactual.cl/2020/03/20/que-pasa-con-los-incumbentes-cuando-cambia-el-electorado/)
 
-### Media Articles in English
+## In English
 
 "What We Learned About Vaccine Hesitancy and How to Overcome It." Contributor, Columbia News, May 7th, 2021. Link [here](https://news.columbia.edu/news/overcome-vaccine-hesitancy-messages)
 
