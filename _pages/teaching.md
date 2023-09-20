@@ -18,11 +18,10 @@ author_profile: true
 
 “Scope and Methods”, Department of Political Science,  Undergraduate Level, Spring 2018. Instructor: Dan Corstange.
 
-### At Universidad Católica de Chile
-
-“Introduction to Political Theory”, Department of Political Science, 2008-2010.  Undergraduate Level.
-
 ### At Oxford University
 
 “Evidence in Public Policy”, Blavatnik School of Government, Oxford University, Graduate Level. Supervisors: Julien Labonne and Kate Orkin.
 
+### At Universidad Católica de Chile
+
+“Introduction to Political Theory”, Department of Political Science, 2008-2010.  Undergraduate Level.
