@@ -4,8 +4,9 @@ title: "Teaching"
 permalink: /teaching/
 author_profile: true
 ---
+## Teacher Assistant
 
-## At Columbia University
+### At Columbia University
 
  “Principles of Quantitative Political Research I”, Department of Political Science, Undergraduate level, Spring 2021. Instructor: Robert Shapiro.
 
@@ -17,10 +18,11 @@ author_profile: true
 
 “Scope and Methods”, Department of Political Science,  Undergraduate Level, Spring 2018. Instructor: Dan Corstange.
 
-## At Oxford University
-
-“Evidence in Public Policy”, Blavatnik School of Government, Oxford University, Graduate Level. Supervisors: Julien Labonne and Kate Orkin.
-  
-## At Universidad Católica de Chile
+### At Universidad Católica de Chile
 
 “Introduction to Political Theory”, Department of Political Science, 2008-2010.  Undergraduate Level.
+
+### At Oxford University
+
+“Evidence in Public Policy”, Blavatnik School of Government, Oxford University, Graduate Level. Supervisors: Julien Labonne and Kate Orkin.
+
