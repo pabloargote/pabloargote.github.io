@@ -41,7 +41,7 @@ Argote, Pablo and Eguiguren, José (2022). "Modelos de Democracia y Sistema Pol�
 
 "Understanding the Impact of South-South Migration", with Lucas Perelló (Revise and resubmit in the Journal of International Migration and Integration).
 
-"Interventions to Counter Misinformation: Lessons from the Global North and Applications to the Global South", with Rob Blair, Jessica Gottlieb, Charlene Stainfield, Laura Paler, and Brendan Nyhan (Under Review).
+"Interventions to Counter Misinformation: Lessons from the Global North and Applications to the Global South", with Rob Blair, Jessica Gottlieb, Charlene Stainfield, Laura Paler, and Brendan Nyhan (Revise and resubmit in Current Opinion in Psychology).
 
 "Ideological vs. Issue Voting: Evidence from Chile", with Giancarlo Visconti.
 
