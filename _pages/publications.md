@@ -27,6 +27,9 @@ Argote, Pablo and Navia, Patricio (2018). “Do Voters Affect or Elect Policies:
 
 "The Impact of Social Media on Political Elites". Working paper [here.](https://github.com/pabloargote/pabloargote.github.io/blob/master/files/social_media_elites.pdf) Appendix [here.](https://github.com/pabloargote/pabloargote.github.io/blob/master/files/appendix.pdf) 
 
+## Book Project
+
+"Ideology Without Parties: Voting Behavior in Chile". (with Giancarlo Visconti).
 
 ## Book Chapters (In Spanish)
 
