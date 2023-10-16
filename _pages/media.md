@@ -4,7 +4,6 @@ title: "Media"
 permalink: /media/
 author_profile: true
 ---
-
 ### Media Articles in English
 
 Chilean Constitutional Process: Third Time’s a Charm? Democracy Paradox Blog. Link [here.](https://democracyparadox.com/2023/03/13/chilean-constitutional-process-third-times-a-charm/)
