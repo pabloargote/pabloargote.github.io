@@ -10,6 +10,10 @@ author_profile: true
 
 "Los cambios institucionales se hacen sobre un legado; el nuestro es el presidencialismo." La Segunda, December 28, 2021. Link [here.](https://digital.lasegunda.com/2021/12/29/A/0U42MDEO#zoom=page-width)
 
+### Media Articles in English
+
+Chilean Constitutional Process: Third Time’s a Charm? Link [here.](https://democracyparadox.com/2023/03/13/chilean-constitutional-process-third-times-a-charm/)
+
 ### Media Articles in Spanish
 
 "Ni hiper-presidencialismo ni parlamentarismo, mejor un presidencialismo de coalición." With José Manuel Eguiguren, January 2, 2022. Link [here.](https://terceradosis.cl/2022/01/02/ni-hiper-presidencialismo-ni-parlamentarismo-mejor-un-presidencialismo-de-coalicion/)
