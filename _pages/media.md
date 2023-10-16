@@ -4,15 +4,12 @@ title: "Media"
 permalink: /media/
 author_profile: true
 ---
-## In Spanish
-
-### Interview
-
-"Los cambios institucionales se hacen sobre un legado; el nuestro es el presidencialismo." La Segunda, December 28, 2021. Link [here.](https://digital.lasegunda.com/2021/12/29/A/0U42MDEO#zoom=page-width)
 
 ### Media Articles in English
 
 Chilean Constitutional Process: Third Time’s a Charm? Democracy Paradox Blog. Link [here.](https://democracyparadox.com/2023/03/13/chilean-constitutional-process-third-times-a-charm/)
+
+"What We Learned About Vaccine Hesitancy and How to Overcome It." Contributor, Columbia News, May 7th, 2021. Link [here](https://news.columbia.edu/news/overcome-vaccine-hesitancy-messages)
 
 ### Media Articles in Spanish
 
@@ -32,7 +29,7 @@ Chilean Constitutional Process: Third Time’s a Charm? Democracy Paradox Blog. 
 
 "¿Que Pasa con los Incumbentes Cuando Cambia el Electorado?" Contrafactual, March 20, 2020. Link [here](http://contrafactual.cl/2020/03/20/que-pasa-con-los-incumbentes-cuando-cambia-el-electorado/)
 
-## In English
+### Interview
 
-"What We Learned About Vaccine Hesitancy and How to Overcome It." Contributor, Columbia News, May 7th, 2021. Link [here](https://news.columbia.edu/news/overcome-vaccine-hesitancy-messages)
+"Los cambios institucionales se hacen sobre un legado; el nuestro es el presidencialismo." La Segunda, December 28, 2021. Link [here.](https://digital.lasegunda.com/2021/12/29/A/0U42MDEO#zoom=page-width)
 
