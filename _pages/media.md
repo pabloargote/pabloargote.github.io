@@ -6,7 +6,7 @@ author_profile: true
 ---
 ### Media Articles in English
 
-Chilean Constitutional Process: Third Time’s a Charm? Democracy Paradox Blog. Link [here.](https://democracyparadox.com/2023/03/13/chilean-constitutional-process-third-times-a-charm/)
+"Chilean Constitutional Process: Third Time’s a Charm?" Democracy Paradox Blog. Link [here.](https://democracyparadox.com/2023/03/13/chilean-constitutional-process-third-times-a-charm/)
 
 "What We Learned About Vaccine Hesitancy and How to Overcome It." Contributor, Columbia News, May 7th, 2021. Link [here](https://news.columbia.edu/news/overcome-vaccine-hesitancy-messages)
 
