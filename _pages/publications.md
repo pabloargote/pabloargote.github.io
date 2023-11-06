@@ -31,7 +31,7 @@ Argote, Pablo and Navia, Patricio (2018). “Do Voters Affect or Elect Policies:
 
 ## Book Project
 
-"Ideology Without Parties: Voting Behavior in Chile". (with Giancarlo Visconti).
+"Ideology Without Parties: Voting Behavior in Chile" (with Giancarlo Visconti).
 
 ## Book Chapters (In Spanish)
 
@@ -49,3 +49,7 @@ Argote, Pablo and Eguiguren, José (2022). "Modelos de Democracia y Sistema Pol�
 "Ideological vs. Issue Voting: Evidence from Chile", with Giancarlo Visconti.
 
 “Internet Access and Gender Attitudes: Evidence from Latin America", with Daniela Urbina.
+
+"Education Under Authoritarian Rule", with Elsa Voytas.
+
+"Is There a 'Coffee Curse' in Latin America", with Lucas Perelló.
