@@ -5,6 +5,8 @@ permalink: /publications/
 author_profile: true
 ---
 
+"Interventions to Counter Misinformation: Lessons from the Global North and Applications to the Global South", with Rob Blair, Jessica Gottlieb, Charlene Stainfield, Laura Paler, and Brendan Nyhan (Forthcoming in Current Opinion in Psychology).
+
 "Politics Matter: How Political Experience Mitigates School Disruption on Children Outcomes", with Manuel Alcaino (Forthcoming in The Russell Sage Foundation Journal of the Social Sciences).
 
 Argote, Pablo and Visconti, Giancarlo (2023). "Anti-Elite Attitudes and Support for Independent Candidates." Plos One 18(10). Paper [here.](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0292098)
@@ -40,11 +42,9 @@ Argote, Pablo and Eguiguren, José (2022). "Modelos de Democracia y Sistema Pol�
 
 ## Work in Progress
 
-"From Fraternity to Xenophobia: The Formation of Attitudes Toward Immigration in Colombia", with Sarah Daly (Revise and resubmit in International Interactions).
+"From Fraternity to Xenophobia: The Formation of Attitudes Toward Immigration in Colombia", with Sarah Daly (Conditionally Accepted in International Interactions).
 
 "Understanding the Impact of South-South Migration", with Lucas Perelló (Revise and resubmit in the Journal of International Migration and Integration).
-
-"Interventions to Counter Misinformation: Lessons from the Global North and Applications to the Global South", with Rob Blair, Jessica Gottlieb, Charlene Stainfield, Laura Paler, and Brendan Nyhan (Revise and resubmit in Current Opinion in Psychology).
 
 "Ideological vs. Issue Voting: Evidence from Chile", with Giancarlo Visconti.
 
