@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-"Interventions to Counter Misinformation: Lessons from the Global North and Applications to the Global South", with Rob Blair, Jessica Gottlieb, Charlene Stainfield, Laura Paler, and Brendan Nyhan (Forthcoming in Current Opinion in Psychology). Paper [here.](https://www.sciencedirect.com/science/article/abs/pii/S2352250X2300177X)
+"Interventions to Counter Misinformation: Lessons from the Global North and Applications to the Global South", with Rob Blair, Jessica Gottlieb, Charlene Stainfield, Laura Paler, and Brendan Nyhan. Paper [here.](https://www.sciencedirect.com/science/article/abs/pii/S2352250X2300177X)
 
 "Politics Matter: How Political Experience Mitigates School Disruption on Children Outcomes", with Manuel Alcaino (Forthcoming in The Russell Sage Foundation Journal of the Social Sciences).
 
