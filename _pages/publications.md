@@ -5,16 +5,16 @@ permalink: /publications/
 author_profile: true
 ---
 
-"Interventions to Counter Misinformation: Lessons from the Global North and Applications to the Global South", with Rob Blair, Jessica Gottlieb, Charlene Stainfield, Laura Paler, and Brendan Nyhan. Paper [here.](https://www.sciencedirect.com/science/article/abs/pii/S2352250X2300177X)
-
 "Politics Matter: How Political Experience Mitigates School Disruption on Children Outcomes", with Manuel Alcaino (Forthcoming in The Russell Sage Foundation Journal of the Social Sciences).
+
+Rob Blair, Jessica Gottlieb, Pablo Argote, Charlene Stainfield, Laura Paler, and Brendan Nyhan. "Interventions to Counter Misinformation: Lessons from the Global North and Applications to the Global South." Paper [here.](https://www.sciencedirect.com/science/article/abs/pii/S2352250X2300177X)
 
 Argote, Pablo and Visconti, Giancarlo (2023). "Anti-Elite Attitudes and Support for Independent Candidates." Plos One 18(10). Paper [here.](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0292098)
 
-Argote, Pablo, John Marshall, Sarah Daly, Oscar Pocasangre, Elena Barham and Julián Gerez (2021).
+Pablo Argote, John Marshall, Sarah Daly, Oscar Pocasangre, Elena Barham and Julián Gerez (2021).
 "Messaging Interventions that Increase COVID-19 Vaccine Willingness in Latin America".  Plos One 16(10). Paper [here.](https://github.com/pabloargote/pabloargote.github.io/blob/master/files/hesitancy_draft.pdf)
 
-Argote, Pablo, John Marshall, Sarah Daly, Oscar Pocasangre, Elena Barham and Julián Gerez (2021).
+Pablo Argote, John Marshall, Sarah Daly, Oscar Pocasangre, Elena Barham and Julián Gerez (2021).
 "The Shot, the Message, and the Messenger: COVID-19 Vaccine Acceptance in Latin America."  Nature Partner Journals Vaccines 6.1, 1-9. Paper [here.](https://www.nature.com/articles/s41541-021-00380-x.epdf?sharing_token=DFKROPWaK32LiwMI3EbnxNRgN0jAjWel9jnR3ZoTv0NXwi43hFNbiJlbIemnlRXELBSYKX8R8QLIPgbIByc69N-eyIWucET41EwVTo2FqqYXn4vvJV_iPcs8Sc4HJPuHrUkQjpy1E1Ys04vUdX17zU7sxasbITrDQgSjQYkUUak%3D)
 
 Argote, Pablo (2021). "Does Voluntary Voting Enhance Partisan Bias? Evidence from Chile." Journal
