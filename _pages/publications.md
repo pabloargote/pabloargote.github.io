@@ -50,6 +50,6 @@ Argote, Pablo and Eguiguren, José (2022). "Modelos de Democracia y Sistema Pol�
 
 “Internet Access and Gender Attitudes: Evidence from Latin America", with Daniela Urbina.
 
-"Education Under Authoritarian Rule", with Elsa Voytas.
+"The Anti-Left Legacy of the Pinochet Dictatorship", with Elsa Voytas.
 
 "Is There a 'Coffee Curse' in Latin America", with Lucas Perelló.
