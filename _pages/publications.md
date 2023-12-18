@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-"From Fraternity to Xenophobia: The Formation of Attitudes Toward Immigration in Colombia", with Sarah Daly  (Forthcoming in International Interactions).
+"The Formation of Attitudes Toward Immigration in Colombia", with Sarah Daly  (Forthcoming in International Interactions).
 
 "Politics Matter: How Political Experience Mitigates School Disruption on Children Outcomes", with Manuel Alcaino (Forthcoming in The Russell Sage Foundation Journal of the Social Sciences).
 
