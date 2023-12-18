@@ -5,6 +5,8 @@ permalink: /publications/
 author_profile: true
 ---
 
+"From Fraternity to Xenophobia: The Formation of Attitudes Toward Immigration in Colombia", with Sarah Daly  (Forthcoming in International Interactions).
+
 "Politics Matter: How Political Experience Mitigates School Disruption on Children Outcomes", with Manuel Alcaino (Forthcoming in The Russell Sage Foundation Journal of the Social Sciences).
 
 Rob Blair, Jessica Gottlieb, Pablo Argote, Charlene Stainfield, Laura Paler, and Brendan Nyhan. "Interventions to Counter Misinformation: Lessons from the Global North and Applications to the Global South." Current Opinion in Psychology. Paper [here.](https://www.sciencedirect.com/science/article/abs/pii/S2352250X2300177X)
@@ -41,8 +43,6 @@ Argote, Pablo and Eguiguren, José (2022). "Modelos de Democracia y Sistema Pol�
 
 
 ## Work in Progress
-
-"From Fraternity to Xenophobia: The Formation of Attitudes Toward Immigration in Colombia", with Sarah Daly (Conditionally Accepted in International Interactions).
 
 "Understanding the Impact of South-South Migration", with Lucas Perelló (Revise and resubmit in the Journal of International Migration and Integration).
 
