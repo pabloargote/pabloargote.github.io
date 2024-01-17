@@ -7,9 +7,9 @@ author_profile: true
 
 "The Formation of Attitudes Toward Immigration in Colombia", with Sarah Daly  (Forthcoming in International Interactions).
 
-"Politics Matter: How Political Experience Mitigates School Disruption on Children Outcomes", with Manuel Alcaino. Russell Sage Foundation Journal of the Social Sciences (2024). Paper [here.](https://www.rsfjournal.org/content/10/1/181)
+Argote, Pablo and Manuel Alcaíno (2024). "Politics Matter: How Political Experience Mitigates School Disruption on Children Outcomes", with Manuel Alcaino. Russell Sage Foundation Journal of the Social Sciences,  10 (1) 181-204. Paper [here.](https://www.rsfjournal.org/content/10/1/181)
 
-Rob Blair, Jessica Gottlieb, Pablo Argote, Charlene Stainfield, Laura Paler, and Brendan Nyhan. "Interventions to Counter Misinformation: Lessons from the Global North and Applications to the Global South." Current Opinion in Psychology (2023). Paper [here.](https://www.sciencedirect.com/science/article/abs/pii/S2352250X2300177X)
+Rob Blair, Jessica Gottlieb, Pablo Argote, Charlene Stainfield, Laura Paler, and Brendan Nyhan (2023). "Interventions to Counter Misinformation: Lessons from the Global North and Applications to the Global South." Current Opinion in Psychology. Paper [here.](https://www.sciencedirect.com/science/article/abs/pii/S2352250X2300177X)
 
 Argote, Pablo and Visconti, Giancarlo (2023). "Anti-Elite Attitudes and Support for Independent Candidates." Plos One 18(10). Paper [here.](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0292098)
 
@@ -44,12 +44,12 @@ Argote, Pablo and Eguiguren, José (2022). "Modelos de Democracia y Sistema Pol�
 
 ## Work in Progress
 
-"Understanding the Impact of South-South Migration", with Lucas Perelló (Revise and resubmit in the Journal of International Migration and Integration).
+"Understanding the Impact of South-South Migration," with Lucas Perelló (Revise and resubmit in the Journal of International Migration and Integration).
 
-"Ideological vs. Issue Voting: Evidence from Chile", with Giancarlo Visconti.
+"Ideological vs. Issue Voting: Evidence from Chile," with Giancarlo Visconti.
 
-“Internet Access and Gender Attitudes: Evidence from Latin America", with Daniela Urbina.
+“Internet Access and Gender Attitudes: Evidence from Latin America," with Daniela Urbina.
 
-"The Anti-Left Legacy of the Pinochet Dictatorship", with Elsa Voytas.
+"The Anti-Left Legacy of the Pinochet Dictatorship," with Elsa Voytas.
 
-"Is There a 'Coffee Curse' in Latin America", with Lucas Perelló.
+"Is There a 'Coffee Curse' in Latin America," with Lucas Perelló.
