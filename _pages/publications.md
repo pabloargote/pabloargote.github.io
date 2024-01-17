@@ -7,9 +7,9 @@ author_profile: true
 
 "The Formation of Attitudes Toward Immigration in Colombia", with Sarah Daly  (Forthcoming in International Interactions).
 
-"Politics Matter: How Political Experience Mitigates School Disruption on Children Outcomes", with Manuel Alcaino (Forthcoming in The Russell Sage Foundation Journal of the Social Sciences).
+"Politics Matter: How Political Experience Mitigates School Disruption on Children Outcomes", with Manuel Alcaino. Russell Sage Foundation Journal of the Social Sciences (2024). Paper [here.](https://www.rsfjournal.org/content/10/1/181)
 
-Rob Blair, Jessica Gottlieb, Pablo Argote, Charlene Stainfield, Laura Paler, and Brendan Nyhan. "Interventions to Counter Misinformation: Lessons from the Global North and Applications to the Global South." Current Opinion in Psychology. Paper [here.](https://www.sciencedirect.com/science/article/abs/pii/S2352250X2300177X)
+Rob Blair, Jessica Gottlieb, Pablo Argote, Charlene Stainfield, Laura Paler, and Brendan Nyhan. "Interventions to Counter Misinformation: Lessons from the Global North and Applications to the Global South." Current Opinion in Psychology (2023). Paper [here.](https://www.sciencedirect.com/science/article/abs/pii/S2352250X2300177X)
 
 Argote, Pablo and Visconti, Giancarlo (2023). "Anti-Elite Attitudes and Support for Independent Candidates." Plos One 18(10). Paper [here.](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0292098)
 
