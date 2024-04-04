@@ -7,7 +7,7 @@ author_profile: true
 
 Argote, Pablo and Daly, Sarah. "The formation of attitudes toward immigration in Colombia." International Interactions (2024): 1-15. Paper [here.](https://www.tandfonline.com/doi/abs/10.1080/03050629.2024.2309999)
 
-Argote, Pablo and Manuel Alcaíno (2024). "Politics Matter: How Political Experience Mitigates School Disruption on Children Outcomes", with Manuel Alcaino. Russell Sage Foundation Journal of the Social Sciences,  10 (1) 181-204. Paper [here.](https://www.rsfjournal.org/content/10/1/181)
+Argote, Pablo and Alcaíno, Manuel (2024). "Politics Matter: How Political Experience Mitigates School Disruption on Children Outcomes," with Manuel Alcaino. Russell Sage Foundation Journal of the Social Sciences,  10 (1) 181-204. Paper [here.](https://www.rsfjournal.org/content/10/1/181)
 
 Rob Blair, Jessica Gottlieb, Pablo Argote, Charlene Stainfield, Laura Paler, and Brendan Nyhan (2023). "Interventions to Counter Misinformation: Lessons from the Global North and Applications to the Global South." Current Opinion in Psychology. Paper [here.](https://www.sciencedirect.com/science/article/abs/pii/S2352250X2300177X)
 
