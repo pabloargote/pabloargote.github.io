@@ -44,7 +44,7 @@ Argote, Pablo and Eguiguren, José (2022). "Modelos de Democracia y Sistema Pol�
 
 ## Work in Progress
 
-"Understanding the Impact of South-South Migration," with Lucas Perelló (Revise and resubmit in the Journal of International Migration and Integration).
+"Understanding the Impact of South-South Migration," with Lucas Perelló (Accepted in the Journal of International Migration and Integration).
 
 "Ideological vs. Issue Voting: Evidence from Chile," with Giancarlo Visconti.
 
