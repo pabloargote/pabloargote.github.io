@@ -29,10 +29,6 @@ Voting." European Political Science Review, 12(2), 173-197. Paper [here.](https:
 
 Argote, Pablo and Navia, Patricio (2018). “Do Voters Affect or Elect Policies: Within-Coalition Competition in the Chilean Electoral System." Journal of Politics in Latin America, 10, 1, 3–28. Paper [here.](https://journals.sagepub.com/doi/full/10.1177/1866802X1801000101)
 
-## Job Market Paper
-
-"The Impact of Social Media on Political Elites". Working paper [here.](https://github.com/pabloargote/pabloargote.github.io/blob/master/files/social_media_elites.pdf) Appendix [here.](https://github.com/pabloargote/pabloargote.github.io/blob/master/files/appendix.pdf) 
-
 ## Book Project
 
 "Ideology Without Parties: Voting Behavior in Chile" (with Giancarlo Visconti).
@@ -45,6 +41,8 @@ Argote, Pablo and Eguiguren, José (2022). "Modelos de Democracia y Sistema Pol�
 
 
 ## Work in Progress
+
+"How do Politicians Use Social Media?"
 
 "Ideological vs. Issue Voting: Evidence from Chile," with Giancarlo Visconti.
 
