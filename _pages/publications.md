@@ -7,7 +7,7 @@ author_profile: true
 
 Argote, Pablo., Perelló, Lucas. "Explaining the Impact of South-South Migration: Evidence from Chile’s Immigration Boom." International Migration & Integration (2024). Paper [here](https://doi.org/10.1007/s12134-024-01150-z). Replication code [here](https://github.com/pabloargote/pabloargote.github.io/blob/master/files/Analysis_manuscript.do). Replication data [here](https://github.com/pabloargote/pabloargote.github.io/blob/master/files/polls_replication.dta) and [here.](https://github.com/pabloargote/pabloargote.github.io/blob/master/files/elections_immigration.dta)
 
-Argote, Pablo and Daly, Sarah. "The formation of attitudes toward immigration in Colombia." International Interactions (2024): 1-15. Paper [here.](https://www.tandfonline.com/doi/abs/10.1080/03050629.2024.2309999)
+Argote, Pablo and Daly, Sarah. "The Formation of Attitudes Toward Immigration in Colombia." International Interactions (2024): 1-15. Paper [here.](https://www.tandfonline.com/doi/abs/10.1080/03050629.2024.2309999)
 
 Argote, Pablo and Alcaíno, Manuel (2024). "Politics Matter: How Political Experience Mitigates School Disruption on Children Outcomes," with Manuel Alcaino. Russell Sage Foundation Journal of the Social Sciences,  10 (1) 181-204. Paper [here.](https://www.rsfjournal.org/content/10/1/181)
 
