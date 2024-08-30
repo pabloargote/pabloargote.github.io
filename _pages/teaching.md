@@ -4,6 +4,14 @@ title: "Teaching"
 permalink: /teaching/
 author_profile: true
 ---
+## Instructor
+
+### At the University of Southern California
+
+"Introduction to Comparative Politics", Department of Political Science, Undergraduate level, Fall 2024.  
+
+"Field and Survey Experiments", Department of Political Science, Undergraduate level, Spring 2025 (Expected).  
+
 ## Teacher Assistant
 
 ### At Columbia University
