@@ -42,12 +42,13 @@ Argote, Pablo and Eguiguren, José (2022). "Modelos de Democracia y Sistema Pol�
 
 ## Work in Progress
 
-"How do Politicians Use Social Media?"
+"How do Politicians Use Social Media?" Under Review.
 
-"Ideology as a Social Identity," with Giancarlo Visconti.
+"Ideology as a Social Identity," with Giancarlo Visconti. Under Review.
+
+"The Anti-Left Legacy of the Pinochet Dictatorship," with Elsa Voytas. Under Review.
+
+"Is There a 'Coffee Curse' in Latin America," with Lucas Perelló. Under Review.
 
 “Internet Access and Gender Attitudes: Evidence from Latin America," with Daniela Urbina.
 
-"The Anti-Left Legacy of the Pinochet Dictatorship," with Elsa Voytas.
-
-"Is There a 'Coffee Curse' in Latin America," with Lucas Perelló.
