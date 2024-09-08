@@ -44,7 +44,7 @@ Argote, Pablo and Eguiguren, José (2022). "Modelos de Democracia y Sistema Pol�
 
 "How do Politicians Use Social Media?"
 
-"Ideological vs. Issue Voting: Evidence from Chile," with Giancarlo Visconti.
+"Ideology as a Social Identity," with Giancarlo Visconti.
 
 “Internet Access and Gender Attitudes: Evidence from Latin America," with Daniela Urbina.
 
