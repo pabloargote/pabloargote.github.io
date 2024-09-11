@@ -30,6 +30,8 @@ author_profile: true
 
 ### Interviews
 
+“Kamala Harris podría subir algo gracias al debate, pero dudo que Trump vaya a retroceder”, Ex-ante, September 11, 2024 Link [here.](https://www.ex-ante.cl/experto-en-eeuu-kamala-podria-subir-algo-gracias-al-debate-pero-dudo-que-trump-vaya-a-retroceder/)
+
 “Trump iba como avión contra Biden y Kamala Harris lo descolocó”, Ex-ante, August 7, 2024. Link [here.](https://www.ex-ante.cl/pablo-argote-academico-chileno-y-experto-en-eeuu-trump-iba-como-avion-contra-biden-y-kamala-harris-lo-descoloco/)
 
 "Los cambios institucionales se hacen sobre un legado; el nuestro es el presidencialismo." La Segunda, December 28, 2021. Link [here.](https://digital.lasegunda.com/2021/12/29/A/0U42MDEO#zoom=page-width)
