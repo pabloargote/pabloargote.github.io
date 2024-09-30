@@ -74,7 +74,8 @@ social:
  # google:
   #  tracking_id          : "UA-79273-2"
 
-
+# Theme
+theme: jekyll-theme-minimal
 
 # Site Author
 author:
@@ -253,7 +254,7 @@ sass:
 permalink: /:categories/:title/
 # paginate: 5 # amount of posts to show
 # paginate_path: /page:num/
-timezone: Europe/London # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone: America/Los_Angeles # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 
 # Plugins
