@@ -11,3 +11,6 @@ main:
     
   - title: "Media"
     url: /media/
+
+  - title: "Opinion"
+    url: /opinion/
