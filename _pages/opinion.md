@@ -5,11 +5,11 @@ permalink: /opinion/
 author_profile: true
 ---
 
-### Opinion in Spanish
+## Opinion in Spanish
 
-#### Mi respuesta a la columna de Sebastían Edwards, publicada en La Tercera el domingo 10 de Noviembre.
+### Mi respuesta a la columna de Sebastían Edwards, publicada en La Tercera el domingo 10 de Noviembre.
 
-Un Análisis Facilista: Respuesta a Sebastián Edwards.
+### Un Análisis Facilista: Respuesta a Sebastián Edwards.
  
 Pablo Argote
  
