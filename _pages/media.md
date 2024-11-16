@@ -12,6 +12,10 @@ author_profile: true
 
 ### Media Articles in Spanish
 
+"Debate presidencial: ¿Qué tipo de cambio quieren los estadounidenses? September 16, 2024. Link [here.](https://www.ex-ante.cl/debate-presidencial-que-tipo-de-cambio-quieren-los-estadounidenses-por-pablo-argote/)
+
+"Radiografía a los “Swing States”, los estados que decidirán la disputa Trump versus Harris." August 20, 2024. Link [here.](https://www.ex-ante.cl/radiografia-a-los-swing-states-los-estados-que-decidiran-la-disputa-trump-versus-harris-por-pablo-argote/)
+
 "Ni hiper-presidencialismo ni parlamentarismo, mejor un presidencialismo de coalición." With José Manuel Eguiguren, January 2, 2022. Link [here.](https://terceradosis.cl/2022/01/02/ni-hiper-presidencialismo-ni-parlamentarismo-mejor-un-presidencialismo-de-coalicion/)
 
 "¿Quienes son y qué piensan los nuevos votantes de Boric?" With Giancarlo Visconti, Tercera Dosis, December 22, 2021. Link [here.](https://terceradosis.cl/2021/12/22/quienes-son-y-que-piensan-los-nuevos-votantes-de-boric/)
