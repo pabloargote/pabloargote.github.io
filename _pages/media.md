@@ -12,7 +12,7 @@ author_profile: true
 
 ### Media Articles in Spanish
 
-"Qué pasó de verdad en la elección de Estados Unidos? November 17, 2024. Link [here.] (https://www.ex-ante.cl/que-paso-de-verdad-en-la-eleccion-de-estados-unidos-por-pablo-argote-y-sebastian-urbina/) 
+"Qué pasó de verdad en la elección de Estados Unidos? November 17, 2024. Link [here.](https://www.ex-ante.cl/que-paso-de-verdad-en-la-eleccion-de-estados-unidos-por-pablo-argote-y-sebastian-urbina/) 
 
 "Debate presidencial: ¿Qué tipo de cambio quieren los estadounidenses? September 16, 2024. Link [here.](https://www.ex-ante.cl/debate-presidencial-que-tipo-de-cambio-quieren-los-estadounidenses-por-pablo-argote/)
 
