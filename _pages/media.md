@@ -12,6 +12,8 @@ author_profile: true
 
 ### Media Articles in Spanish
 
+"Qué pasó de verdad en la elección de Estados Unidos? November 17, 2024. Link [here.] (https://www.ex-ante.cl/que-paso-de-verdad-en-la-eleccion-de-estados-unidos-por-pablo-argote-y-sebastian-urbina/) 
+
 "Debate presidencial: ¿Qué tipo de cambio quieren los estadounidenses? September 16, 2024. Link [here.](https://www.ex-ante.cl/debate-presidencial-que-tipo-de-cambio-quieren-los-estadounidenses-por-pablo-argote/)
 
 "Radiografía a los “Swing States”, los estados que decidirán la disputa Trump versus Harris." August 20, 2024. Link [here.](https://www.ex-ante.cl/radiografia-a-los-swing-states-los-estados-que-decidiran-la-disputa-trump-versus-harris-por-pablo-argote/)
