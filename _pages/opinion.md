@@ -12,8 +12,9 @@ author_profile: true
 ### La Ideología Importa
 
 
-Pablo Argote
-Giancarlo Visconti
+#### Pablo Argote
+
+#### Giancarlo Visconti
 
 Acabamos de tener cuatro elecciones en donde se usaron diferentes reglas electorales. Pese a que cada elección es distina, los resultados son sorpresivamennte estables: predominan claramente los bloques ideológicos tradicionales. Veamos dos datos clave que reflejan la principal tendencia estructural del electorado chileno.
 
