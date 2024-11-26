@@ -7,7 +7,7 @@ author_profile: true
 
 ## Opinion in Spanish
 
-### Comentario de elecciones municipaples Chile 2024
+### Comentario de elecciones municipaples Chile, Noviembre 2024
 
 ### La Ideología Importa
 
@@ -15,6 +15,8 @@ author_profile: true
 #### Pablo Argote
 
 #### Giancarlo Visconti
+
+#### 11/26/2024
 
 Acabamos de tener cuatro elecciones en donde se usaron diferentes reglas electorales. Pese a que cada elección es distina, los resultados son sorpresivamennte estables: predominan claramente los bloques ideológicos tradicionales. Veamos dos datos clave que reflejan la principal tendencia estructural del electorado chileno.
 
@@ -32,6 +34,8 @@ Creemos que el dato clave de esta elección no es si ganó “la buena política
 ### Mi respuesta a la columna de Sebastían Edwards, publicada en La Tercera el domingo 10 de Noviembre.
 
 ### Un Análisis Facilista: Respuesta a Sebastián Edwards.
+
+#### 11/12/2024
  
 Pablo Argote
  
