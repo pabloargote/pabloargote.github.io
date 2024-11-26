@@ -18,7 +18,7 @@ author_profile: true
 
 #### 11/26/2024
 
-Acabamos de tener cuatro elecciones en donde se usaron diferentes reglas electorales. Pese a que cada elección es distina, los resultados son sorpresivamennte estables: predominan claramente los bloques ideológicos tradicionales. Veamos dos datos clave que reflejan la principal tendencia estructural del electorado chileno.
+Acabamos de tener cuatro elecciones en donde se usaron diferentes reglas electorales. Pese a que cada elección es distinta, los resultados son sorpresivamennte estables: predominan claramente los bloques ideológicos tradicionales. Veamos dos datos clave que reflejan la principal tendencia estructural del electorado chileno.
 
 En la elección de alcaldes, la suma de partidos del centro a la derecha obtuvo un 37%, mientras que las fuerzas del centro a la izquierda alcanzaron un 33%. El resto de los votos fue para independientes. A grandes rasgos, el electorado se divide casi aritméticamente en izquierda, derecha e independientes. Sin embargo, dentro del grupo de independientes podemos encontrar varios casos de alcaldes electos que adhieren a una posicion ideologica clara, aunque no pertenezcan a un partido, como Matias Toledo en Puente Alto o Catalina San Martín en Las Condes.
 
