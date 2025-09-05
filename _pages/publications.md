@@ -44,9 +44,9 @@ Argote, Pablo and Eguiguren, José (2022). "Modelos de Democracia y Sistema Pol�
 
 The Anti-Left Legacy of the Pinochet Dictatorship (with Elsa Voytas) -- Accepted, Comparative Political Studies.
 
-Ideological vs. Issue Voting in Chile (with Giancarlo Visconti) -- Conditionally Accepted, Latin American Politics and Society.
+Shade-grown Authoritarianism (with Perelló \& Navia) -- Accepted, Democratization.
 
-Shade-grown Authoritarianism (with Perelló \& Navia) -- R\&R
+Ideological vs. Issue Voting in Chile (with Giancarlo Visconti) -- Conditionally Accepted, Latin American Politics and Society.
 
 Thick and Thin Ideology (with Visconti \& de la Cerda)
 
