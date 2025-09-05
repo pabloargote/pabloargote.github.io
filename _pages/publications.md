@@ -46,7 +46,7 @@ The Anti-Left Legacy of the Pinochet Dictatorship (with Elsa Voytas) -- Accepted
 
 Shade-grown Authoritarianism (with Perelló \& Navia) -- Accepted, Democratization.
 
-Ideological vs. Issue Voting in Chile (with Giancarlo Visconti) -- Conditionally Accepted, Latin American Politics and Society.
+Causes and Consequences of Ideological Persistence: The Case of Chile (with Giancarlo Visconti) -- Accepted, Latin American Politics and Society.
 
 Thick and Thin Ideology (with Visconti \& de la Cerda)
 
