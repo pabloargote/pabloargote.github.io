@@ -12,9 +12,9 @@ author_profile: true
 
 ### Media Articles in Spanish
 
-"La ideología sigue viva, pero no como la conocíamos", July 2025. Link [here.](https://www.elmostrador.cl/noticias/opinion/columnas/2025/07/10/la-ideologia-sigue-viva-pero-no-como-la-conociamos/)
+"La ideología sigue viva, pero no como la conocíamos", July 2025. Link [here.](https://www.elmostrador.cl/noticias/opinion/columnas/2024/11/29/mientras-los-partidos-mueren-la-ideologia-y-la-estabilidad-sobreviven/)
 
-"Mientras los partidos mueren, la ideología y la estabilidad sobreviven", November, 2024. Link [here.]([https://www.elmostrador.cl/noticias/opinion/columnas/2025/07/10/la-ideologia-sigue-viva-pero-no-como-la-conociamos/](https://www.elmostrador.cl/noticias/opinion/columnas/2024/11/29/mientras-los-partidos-mueren-la-ideologia-y-la-estabilidad-sobreviven/)
+"Mientras los partidos mueren, la ideología y la estabilidad sobreviven", November, 2024. Link [here.](https://www.elmostrador.cl/noticias/opinion/columnas/2025/07/10/la-ideologia-sigue-viva-pero-no-como-la-conociamos/)
 
 "Qué pasó de verdad en la elección de Estados Unidos? November 17, 2024. Link [here.](https://www.ex-ante.cl/que-paso-de-verdad-en-la-eleccion-de-estados-unidos-por-pablo-argote-y-sebastian-urbina/) 
 
