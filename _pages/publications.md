@@ -48,6 +48,17 @@ Ideological vs. Issue Voting in Chile (with Giancarlo Visconti) -- Conditionally
 
 Shade-grown Authoritarianism (with Perelló \& Navia) -- R\&R
 
+Thick and Thin Ideology (with Visconti \& de la Cerda)
+
+Ideology in Two-Round Elections (with Visconti \& Rivera)
+
+COVID-19 and Immigration Attitudes (with Sarah Daly)
+
+Internet Access and Gender Attitudes (with Daniela Urbina)
+
 Unpacking the Voting Gender Gap (with Lisa Basil)
 
+Authoritarian Indoctrination (with Jaime Lindh)
+
+Labor Informality and Immigration (with Miguel Carreras)
 
