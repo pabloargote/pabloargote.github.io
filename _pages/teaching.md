@@ -8,9 +8,10 @@ author_profile: true
 
 ### At the University of Southern California
 
-"Introduction to Comparative Politics," Department of Political Science, Undergraduate level, Fall 2024. Syllabus [here.](https://github.com/pabloargote/pabloargote.github.io/blob/master/files/POSC_120_2024.pdf)
+"Introduction to Comparative Politics," Department of Political Science, Undergraduate level, Fall 2025. Syllabus [here.](https://github.com/pabloargote/pabloargote.github.io/blob/master/files/POSC_120_2024.pdf)
 
-"Field and Survey Experiments," Department of Political Science, Undergraduate level, Spring 2025 (Expected). 
+"Introduction to Comparative Politics," Department of Political Science, Undergraduate level, Fall 2024. Syllabus [here.](https://github.com/pabloargote/pabloargote.github.io/blob/master/files/POSC_120_2025.pdf)
+
 
 ## Seminar Leader
 
