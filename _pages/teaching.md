@@ -12,6 +12,8 @@ author_profile: true
 
 "Introduction to Comparative Politics," Department of Political Science, Undergraduate level, Fall 2024. Syllabus [here.](https://github.com/pabloargote/pabloargote.github.io/blob/master/files/POSC_120_2025.pdf)
 
+"Comparative Political Institutions," (Expected) Department of Political Science, Undergraduate level, Spring 2026. Syllabus [here.](https://github.com/pabloargote/pabloargote.github.io/blob/master/files/POSC_120_2024.pdf)
+
 
 ## Seminar Leader
 
