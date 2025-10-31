@@ -11,12 +11,9 @@ author_profile: true
 
 Argote, Pablo and Voytas, Elsa. "The Anti-Left Legacy of the Pinochet Dictatorship (with Elsa Voytas)" Comparative Political Studies (2025)
 
-Visconti, G. \& Argote, P. "Chile 2024: The Resilience of Ideology and the Rise of Anti-Elite Attitudes." Revista de Ciencia Política UC, (2025), 45(2).
+Visconti, Giancarlo and Argote, Pablo. "Chile 2024: The Resilience of Ideology and the Rise of Anti-Elite Attitudes." Revista de Ciencia Política UC, (2025), 45(2).
 
 Argote, Pablo and Visconti, Giancarlo (2023). "Anti-Elite Attitudes and Support for Independent Candidates." Plos One 18(10). Paper [here.](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0292098)
-
-Argote, Pablo (2021). "Does Voluntary Voting Enhance Partisan Bias? Evidence from Chile." Journal
-of Latin American Studies, 1-25. Paper [here.](https://www.cambridge.org/core/journals/journal-of-latin-american-studies/article/abs/does-voluntary-voting-enhance-partisan-bias-evidence-from-chile/677BC4681C351B6CC17D8EAB868513C6)
 
 Argote, Pablo (2020). "Incumbency Advantage and Shocks in the Electorate: The Adoption of Voluntary
 Voting." European Political Science Review, 12(2), 173-197. Paper [here.](https://www.cambridge.org/core/journals/european-political-science-review/article/incumbency-advantage-and-shocks-in-the-electorate-the-adoption-of-voluntary-voting/485A1D9F6387F30FE806B7B92CE1EF3B)
@@ -40,6 +37,9 @@ Rob Blair, Jessica Gottlieb, Pablo Argote, Charlene Stainfield, Laura Paler, and
 ### On Political Elites
 
 Argote, Pablo and Alcaíno, Manuel (2024). "Politics Matter: How Political Experience Mitigates School Disruption on Children Outcomes," with Manuel Alcaino. Russell Sage Foundation Journal of the Social Sciences,  10 (1) 181-204. Paper [here.](https://www.rsfjournal.org/content/10/1/181)
+
+Argote, Pablo (2021). "Does Voluntary Voting Enhance Partisan Bias? Evidence from Chile." Journal
+of Latin American Studies, 1-25. Paper [here.](https://www.cambridge.org/core/journals/journal-of-latin-american-studies/article/abs/does-voluntary-voting-enhance-partisan-bias-evidence-from-chile/677BC4681C351B6CC17D8EAB868513C6)
 
 Argote, Pablo and Navia, Patricio (2018). “Do Voters Affect or Elect Policies: Within-Coalition Competition in the Chilean Electoral System." Journal of Politics in Latin America, 10, 1, 3–28. Paper [here.](https://journals.sagepub.com/doi/full/10.1177/1866802X1801000101)
 
