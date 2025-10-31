@@ -59,9 +59,9 @@ Shade-grown Authoritarianism (with Perelló \& Navia) -- Accepted, Democratizati
 
 Causes and Consequences of Ideological Persistence: The Case of Chile (with Giancarlo Visconti) -- Accepted, Latin American Politics and Society.
 
-Thick and Thin Ideology (with Visconti \& de la Cerda)
+Thick and Thin Ideology (with Visconti & de la Cerda)
 
-Ideology in Two-Round Elections (with Visconti \& Rivera)
+Ideology in Two-Round Elections (with Visconti & Rivera)
 
 COVID-19 and Immigration Attitudes (with Sarah Daly)
 
