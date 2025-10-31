@@ -5,6 +5,10 @@ permalink: /publications/
 author_profile: true
 ---
 
+Argote, Pablo and Voytas, Elsa. "The Anti-Left Legacy of the Pinochet Dictatorship (with Elsa Voytas)" Comparative Political Studies (2025)
+
+Visconti, G. \& Argote, P. "Chile 2024: The Resilience of Ideology and the Rise of Anti-Elite Attitudes." Revista de Ciencia Política UC, (2025), 45(2).
+
 Argote, Pablo and Perelló, Lucas. "Explaining the Impact of South-South Migration: Evidence from Chile’s Immigration Boom." International Migration & Integration (2024). Paper [here](https://doi.org/10.1007/s12134-024-01150-z). Replication code [here](https://github.com/pabloargote/pabloargote.github.io/blob/master/files/Analysis_manuscript.do). Replication data [here](https://github.com/pabloargote/pabloargote.github.io/blob/master/files/polls_replication.dta) and [here.](https://github.com/pabloargote/pabloargote.github.io/blob/master/files/elections_immigration.dta)
 
 Argote, Pablo and Daly, Sarah. "The Formation of Attitudes Toward Immigration in Colombia." International Interactions (2024): 1-15. Paper [here.](https://www.tandfonline.com/doi/abs/10.1080/03050629.2024.2309999)
@@ -42,7 +46,6 @@ Argote, Pablo and Eguiguren, José (2022). "Modelos de Democracia y Sistema Pol�
 
 ## Work in Progress
 
-The Anti-Left Legacy of the Pinochet Dictatorship (with Elsa Voytas) -- Accepted, Comparative Political Studies.
 
 Shade-grown Authoritarianism (with Perelló \& Navia) -- Accepted, Democratization.
 
