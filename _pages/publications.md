@@ -9,7 +9,7 @@ author_profile: true
 
 ### On Political Behavior
 
-Argote, Pablo and Voytas, Elsa. "The Anti-Left Legacy of the Pinochet Dictatorship (with Elsa Voytas)" Comparative Political Studies (2025). Paper [here] (https://journals-sagepub-com.libproxy1.usc.edu/doi/10.1177/00104140251381768) Replication files [here](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/QF8BTB)
+Argote, Pablo and Voytas, Elsa. "The Anti-Left Legacy of the Pinochet Dictatorship (with Elsa Voytas)" Comparative Political Studies (2025). Paper [here](https://journals-sagepub-com.libproxy1.usc.edu/doi/10.1177/00104140251381768) Replication files [here](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/QF8BTB)
 
 Visconti, Giancarlo and Argote, Pablo. "Chile 2024: The Resilience of Ideology and the Rise of Anti-Elite Attitudes." Revista de Ciencia Política UC, (2025), 45(2).
 
