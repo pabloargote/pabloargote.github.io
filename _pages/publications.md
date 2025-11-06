@@ -7,9 +7,9 @@ author_profile: true
 
 ## Research Articles
 
-### On Ideology and Political Behavior
+### On Political Behavior
 
-Argote, Pablo and Voytas, Elsa. "The Anti-Left Legacy of the Pinochet Dictatorship (with Elsa Voytas)" Comparative Political Studies (2025)
+Argote, Pablo and Voytas, Elsa. "The Anti-Left Legacy of the Pinochet Dictatorship (with Elsa Voytas)" Comparative Political Studies (2025). Paper [here] (https://journals-sagepub-com.libproxy1.usc.edu/doi/10.1177/00104140251381768) Replication files [here](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/QF8BTB)
 
 Visconti, Giancarlo and Argote, Pablo. "Chile 2024: The Resilience of Ideology and the Rise of Anti-Elite Attitudes." Revista de Ciencia Política UC, (2025), 45(2).
 
@@ -17,8 +17,6 @@ Argote, Pablo and Visconti, Giancarlo (2023). "Anti-Elite Attitudes and Support 
 
 Argote, Pablo (2020). "Incumbency Advantage and Shocks in the Electorate: The Adoption of Voluntary
 Voting." European Political Science Review, 12(2), 173-197. Paper [here.](https://www.cambridge.org/core/journals/european-political-science-review/article/incumbency-advantage-and-shocks-in-the-electorate-the-adoption-of-voluntary-voting/485A1D9F6387F30FE806B7B92CE1EF3B)
-
-### On Immigration
 
 Argote, Pablo and Daly, Sarah. "The Formation of Attitudes Toward Immigration in Colombia." International Interactions (2024): 1-15. Paper [here.](https://www.tandfonline.com/doi/abs/10.1080/03050629.2024.2309999)
 
@@ -43,6 +41,8 @@ of Latin American Studies, 1-25. Paper [here.](https://www.cambridge.org/core/jo
 
 Argote, Pablo and Navia, Patricio (2018). “Do Voters Affect or Elect Policies: Within-Coalition Competition in the Chilean Electoral System." Journal of Politics in Latin America, 10, 1, 3–28. Paper [here.](https://journals.sagepub.com/doi/full/10.1177/1866802X1801000101)
 
+Perelló, L., Agote, P., & Navia, P. (2025). Shade-grown authoritarianism? Revisiting coffee as a curse in Latin America and the Caribbean. Democratization, 1–25. https://doi-org.libproxy1.usc.edu/10.1080/13510347.2025.2574853. Paper [here.](https://www-tandfonline-com.libproxy1.usc.edu/doi/full/10.1080/13510347.2025.2574853?scroll=top&needAccess=true) Replication files [here].(https://dataverse.carc.usc.edu/dataset.xhtml?persistentId=doi:10.34728/FK2/OUCVCO&version=DRAFT)
+
 ### Book Project
 
 "Ideology Without Parties: Voting Behavior in Chile" (with Giancarlo Visconti).
@@ -55,7 +55,6 @@ Argote, Pablo and Eguiguren, José (2022). "Modelos de Democracia y Sistema Pol�
 
 ## Work in Progress
 
-Shade-grown Authoritarianism (with Perelló \& Navia) -- Accepted, Democratization.
 
 Causes and Consequences of Ideological Persistence: The Case of Chile (with Giancarlo Visconti) -- Accepted, Latin American Politics and Society.
 
