@@ -60,6 +60,8 @@ Causes and Consequences of Ideological Persistence: The Case of Chile (with Gian
 
 Thick and Thin Ideology (with Visconti & de la Cerda)
 
+Immigration Attitudes and Post Hoc Rationalization
+
 Ideology in Two-Round Elections (with Visconti & Rivera)
 
 COVID-19 and Immigration Attitudes (with Sarah Daly)
