@@ -34,7 +34,7 @@ Rob Blair, Jessica Gottlieb, Pablo Argote, Charlene Stainfield, Laura Paler, and
 
 ### On Political Elites
 
-Perelló, L., Agote, P., & Navia, P. (2025). Shade-grown authoritarianism? Revisiting coffee as a curse in Latin America and the Caribbean. Democratization, 1–25. Paper [here.](https://www-tandfonline-com.libproxy1.usc.edu/doi/full/10.1080/13510347.2025.2574853?scroll=top&needAccess=true) Replication files [here](https://dataverse.carc.usc.edu/dataset.xhtml?persistentId=doi:10.34728/FK2/OUCVCO&version=DRAFT)
+Perelló, L., Argote, P., & Navia, P. (2025). Shade-grown authoritarianism? Revisiting coffee as a curse in Latin America and the Caribbean. Democratization, 1–25. Paper [here.](https://www-tandfonline-com.libproxy1.usc.edu/doi/full/10.1080/13510347.2025.2574853?scroll=top&needAccess=true) Replication files [here](https://dataverse.carc.usc.edu/dataset.xhtml?persistentId=doi:10.34728/FK2/OUCVCO&version=DRAFT)
 
 Argote, Pablo and Alcaíno, Manuel (2024). "Politics Matter: How Political Experience Mitigates School Disruption on Children Outcomes," with Manuel Alcaino. Russell Sage Foundation Journal of the Social Sciences,  10 (1) 181-204. Paper [here.](https://www.rsfjournal.org/content/10/1/181)
 
