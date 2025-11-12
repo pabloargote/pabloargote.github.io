@@ -55,12 +55,13 @@ Argote, Pablo and Eguiguren, Jos√© (2022). "Modelos de Democracia y Sistema Pol√
 
 ## Work in Progress
 
-
 Causes and Consequences of Ideological Persistence: The Case of Chile (with Giancarlo Visconti) -- Accepted, Latin American Politics and Society.
 
 Thick and Thin Ideology (with Visconti & de la Cerda)
 
 Immigration Attitudes and Post Hoc Rationalization
+
+Voting Gender Gaps in Latin America: Trends 1990-2025
 
 Ideology in Two-Round Elections (with Visconti & Rivera)
 
