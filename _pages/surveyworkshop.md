@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "Survey Research Workshop"
-permalink: /survey_workshop/
+permalink: /surveyworkshop/
 author_profile: true
 ---
 
