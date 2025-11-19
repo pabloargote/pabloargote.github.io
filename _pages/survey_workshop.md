@@ -17,6 +17,6 @@ Survey data is available everywhere. However, we should not take for granted tha
 
 3. Create a network of social scientists at USC who work with survey data, facilitating the sharing of skills, practical knowledge, and contacts in the survey research world.
 
-The audience of this workshop are mostly USC graduate students from Political Science, Sociology or other departmetns in the social sciences. As the workshop has a "how-to" component, it could be especially helpful for students who lack practical skills in this area, but who wish to use survey data in their dissertation. 
+The audience for this workshop consists mostly of USC graduate students in Political Science, Sociology, and other social science departments. Because the workshop has a strong “how-to” component, it will be especially helpful for students who lack practical skills in this area but want to use survey data in their dissertation.
 
 In the coming days, we will provide a link for people to register, and a tentative schedule of the first 3 sessions. 
