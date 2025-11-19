@@ -9,7 +9,7 @@ author_profile: true
 
 ### Organizers: Pablo Argote and Daniela Urbina
 
-Survey data is available everywhere. However, we should not take for granted that it is always high-quality, representative, or reliable. In fact, the current flurry of data sources and AI tools makes it more important than ever to have the skills to judge the quality of the measures we use. This will allow us to work with survey data rigorously to answer substantive research questions. This workshop has three goals:
+Survey data is available everywhere. However, we should not take for granted that it is always high-quality, representative, or reliable. In fact, the current flurry of data sources and AI tools makes it more important than ever to have the skills to judge the quality of the measures we use. This will allow us to work with survey data rigorously, som we can answer substantive research questions. This workshop has three goals:
 
 1. Learn core statistical and practical tools to work with existing survey data or to design a new survey from scratch. These include building post-stratification weights, implementing multiple regression and post-stratification (MRP), using Qualtrics, designing appropriate survey questions, and designing and analyzing survey experiments, among others.
 
