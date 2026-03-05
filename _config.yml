@@ -6,10 +6,10 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-locale                   : "en-US"
+locale                   : "en-US
 title                    : "Pablo Argote, PhD / MPA"
 title_separator          : "-"
-name                     : &name "Pablo Argote"
+name                     : &name "Pablo Argote
 description              : &description "Postdoctoral Scholar, Department of Political Science and International Relations, University of Southern California"
 url                      : https://pabloargote.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -56,7 +56,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : &twitter "@PabloArgoteT"
+  username                : &twitter "@ArgotetironiP"
 facebook:
   username               : 
   app_id                 :
