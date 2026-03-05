@@ -1,250 +1,288 @@
 <!doctype html>
 <html lang="en">
 <head>
-  <meta charset="utf-8" />
-  <meta name="viewport" content="width=device-width,initial-scale=1" />
-  <title>Pablo Argote — Political Scientist</title>
-  <link href="https://fonts.googleapis.com/css2?family=Lora:ital,wght@0,400;0,600;1,400&family=Jost:wght@300;400;600&display=swap" rel="stylesheet">
-  <style>
-    :root{
-      --bg:#fbf8f4; --navy:#1b2a3b; --muted:#6b7280; --accent:#8b6c42;
-      --content-w:1000px;
-    }
-    *{box-sizing:border-box}
-    body{font-family: 'Jost', system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial; margin:0; color:var(--navy); background:var(--bg); line-height:1.5}
-    header{background:var(--navy); color:#fff; padding:14px 20px; display:flex; align-items:center; justify-content:space-between}
-    .brand{font-family:'Lora'; font-size:20px; letter-spacing:0.2px}
-    nav ul{list-style:none; margin:0; padding:0; display:flex; gap:18px}
-    nav a{color:rgba(255,255,255,0.9); text-decoration:none; font-weight:600}
-    .container{max-width:var(--content-w); margin:28px auto; display:grid; grid-template-columns:260px 1fr; gap:28px; padding:0 18px}
-    .sidebar{background:#fff; padding:18px; border-radius:8px; box-shadow:0 6px 18px rgba(15,23,42,0.06)}
-    .profile{width:100%; text-align:center}
-    .profile img{width:120px; height:120px; border-radius:50%; object-fit:cover; border:6px solid #fff; box-shadow:0 6px 16px rgba(0,0,0,0.08)}
-    h1{font-family:'Lora'; font-size:32px; margin:0 0 6px}
-    .lead{color:var(--muted); margin:8px 0 18px; font-size:15px}
-    .side-list{font-size:14px; color:var(--muted)}
-    .s-divider{height:1px;background: #f1ece7;margin:14px 0}
-    main{background:#fff;padding:22px;border-radius:8px;box-shadow:0 6px 18px rgba(15,23,42,0.06)}
-    section{display:none}
-    section.active{display:block}
-    .page-header .eyebrow{font-size:12px;color:var(--accent); font-weight:700; letter-spacing:1px}
-    .page-header .headline{font-family:'Lora'; font-size:28px; margin:8px 0 18px}
-    .grid-2{display:grid; grid-template-columns:1fr 1fr; gap:18px}
-    ul.pub-list{padding-left:18px}
-    .teach-list .teach-item{margin-bottom:12px}
-    .cv-download{display:inline-block;margin-top:8px;text-decoration:none;color:var(--navy);border:1px solid #e6e0d6;padding:8px 10px;border-radius:6px;background:#fff}
-    footer{max-width:var(--content-w); margin:20px auto 60px; padding:0 18px; color:var(--muted); font-size:14px}
-    /* small */
-    @media (max-width:900px){
-      .container{grid-template-columns:1fr; padding:0 14px}
-      .profile img{width:100px;height:100px}
-    }
-  </style>
+<meta charset="utf-8" />
+<meta name="viewport" content="width=device-width,initial-scale=1" />
+<title>Pablo Argote — Political Scientist</title>
+
+<link href="https://fonts.googleapis.com/css2?family=Lora:ital,wght@0,400;0,600;1,400&family=Jost:wght@300;400;600&display=swap" rel="stylesheet">
+
+<style>
+:root{
+  --bg:#fbf8f4;
+  --navy:#1b2a3b;
+  --muted:#6b7280;
+  --accent:#8b6c42;
+  --content-w:1000px;
+}
+
+*{box-sizing:border-box}
+
+body{
+  font-family:'Jost',system-ui,-apple-system,"Segoe UI",Roboto,Arial;
+  margin:0;
+  background:var(--bg);
+  color:var(--navy);
+  line-height:1.6;
+}
+
+header{
+  background:var(--navy);
+  color:#fff;
+  padding:16px 24px;
+  display:flex;
+  justify-content:space-between;
+  align-items:center;
+}
+
+.brand{
+  font-family:'Lora';
+  font-size:20px;
+}
+
+nav ul{
+  list-style:none;
+  margin:0;
+  padding:0;
+  display:flex;
+  gap:22px;
+}
+
+nav a{
+  color:rgba(255,255,255,0.85);
+  text-decoration:none;
+  font-weight:600;
+}
+
+nav a:hover{
+  color:#fff;
+}
+
+.container{
+  max-width:var(--content-w);
+  margin:30px auto;
+  display:grid;
+  grid-template-columns:260px 1fr;
+  gap:30px;
+  padding:0 20px;
+}
+
+.sidebar{
+  background:#fff;
+  padding:20px;
+  border-radius:8px;
+  box-shadow:0 6px 18px rgba(0,0,0,0.05);
+}
+
+.profile img{
+  width:120px;
+  height:120px;
+  border-radius:50%;
+  object-fit:cover;
+  display:block;
+  margin:0 auto;
+}
+
+main{
+  background:#fff;
+  padding:26px;
+  border-radius:8px;
+  box-shadow:0 6px 18px rgba(0,0,0,0.05);
+}
+
+section{
+  display:none;
+}
+
+section.active{
+  display:block;
+}
+
+.page-header .eyebrow{
+  font-size:12px;
+  color:var(--accent);
+  font-weight:700;
+  letter-spacing:1px;
+}
+
+.page-header .headline{
+  font-family:'Lora';
+  font-size:28px;
+  margin:8px 0 18px;
+}
+
+.pub-list{padding-left:18px}
+
+.teach-item{margin-bottom:14px}
+
+.cv-download{
+  display:inline-block;
+  margin-top:10px;
+  padding:8px 12px;
+  border:1px solid #e6e0d6;
+  border-radius:6px;
+  text-decoration:none;
+  color:var(--navy);
+}
+
+footer{
+  text-align:center;
+  margin:40px 0;
+  color:var(--muted);
+  font-size:14px;
+}
+
+@media(max-width:900px){
+  .container{
+    grid-template-columns:1fr;
+  }
+}
+</style>
 </head>
+
 <body>
 
-  <header>
-    <div class="brand">Pablo Argote <small style="opacity:.85;margin-left:8px;font-size:13px">PhD</small></div>
-    <nav>
-      <ul>
-        <li><a href="#" data-target="home">Home</a></li>
-        <li><a href="#" data-target="research">Research</a></li>
-        <li><a href="#" data-target="teaching">Teaching</a></li>
-        <li><a href="#" data-target="cv">CV</a></li>
-        <li><a href="#" data-target="media">Media</a></li>
+<header>
+  <div class="brand">Pablo Argote <small style="opacity:.8;font-size:13px;margin-left:6px;">PhD</small></div>
+  <nav>
+    <ul>
+      <li><a href="#" data-target="home">Home</a></li>
+      <li><a href="#" data-target="research">Research</a></li>
+      <li><a href="#" data-target="teaching">Teaching</a></li>
+      <li><a href="#" data-target="cv">CV</a></li>
+      <li><a href="#" data-target="media">Media</a></li>
+    </ul>
+  </nav>
+</header>
+
+<div class="container">
+
+  <aside class="sidebar">
+    <div class="profile">
+      <img src="images/profile.jpg" alt="Pablo Argote" onerror="this.style.display='none'">
+      <h3 style="text-align:center;margin-top:12px;">Pablo Argote</h3>
+      <div style="text-align:center;color:var(--muted);font-size:14px;">
+        Provost Postdoctoral Fellow<br>
+        USC — Political Science
+      </div>
+    </div>
+
+    <hr style="margin:20px 0;border:none;height:1px;background:#eee;">
+
+    <div style="font-size:14px;color:var(--muted);">
+      <strong>Contact</strong><br><br>
+      <a href="mailto:pablo.argotetironi@usc.edu">pablo.argotetironi@usc.edu</a><br>
+      <a href="https://scholar.google.com" target="_blank">Google Scholar</a><br>
+      <a href="https://github.com/pabloargote" target="_blank">GitHub</a>
+    </div>
+  </aside>
+
+  <main>
+
+    <!-- HOME -->
+    <section id="home" class="active">
+      <div class="page-header">
+        <div class="eyebrow">Welcome</div>
+        <div class="headline">
+          I study comparative political behavior with a focus on Latin America.
+        </div>
+      </div>
+
+      <p>
+        I am a Provost Postdoctoral Fellow in the Department of Political Science at the University of Southern California. My research examines political attitudes, ideology, immigration, and public opinion using quantitative methods.
+      </p>
+    </section>
+
+    <!-- RESEARCH -->
+    <section id="research">
+      <div class="page-header">
+        <div class="eyebrow">Research</div>
+        <div class="headline">Selected Publications</div>
+      </div>
+
+      <ul class="pub-list">
+        <li>Argote & Voytas (2025). The Anti-Left Legacy of the Pinochet Dictatorship. <em>Comparative Political Studies</em>.</li>
+        <li>Argote & Visconti (2025). Causes and Consequences of Ideological Persistence. <em>LAPS</em>.</li>
+        <li>Argote & Perelló (2024). South-South Migration. <em>Journal of International Migration & Integration</em>.</li>
+        <li>Argote et al. (2021). COVID-19 Vaccine Acceptance in Latin America. <em>npj Vaccines</em>.</li>
       </ul>
-    </nav>
-  </header>
+    </section>
 
-  <div class="container">
-    <aside class="sidebar">
-      <div class="profile">
-        <!-- Replace the src below with your profile image path if you have one (e.g., images/profile.jpg) -->
-        <img src="images/profile.jpg" alt="Pablo Argote" onerror="this.style.display='none'">
-        <h3 style="margin-top:12px;font-size:18px">Pablo Argote</h3>
-        <div style="color:var(--muted);font-size:13px">Provost Postdoctoral Fellow — USC, Political Science</div>
+    <!-- TEACHING -->
+    <section id="teaching">
+      <div class="page-header">
+        <div class="eyebrow">Teaching</div>
+        <div class="headline">Courses</div>
       </div>
 
-      <div class="s-divider"></div>
-
-      <div class="side-list" style="margin-top:12px">
-        <div><strong>Contact</strong></div>
-        <div style="margin-top:6px">
-          <div><a href="mailto:pablo.argotetironi@usc.edu">pablo.argotetironi@usc.edu</a></div>
-          <div><a href="https://pabloargote.github.io" target="_blank">pabloargote.github.io</a></div>
-          <div><a href="https://twitter.com/ArgotetironiP" target="_blank">@ArgotetironiP</a></div>
-          <div><a href="https://scholar.google.com/citations?user=6DqP7GsAAAAJ&hl=en" target="_blank">Google Scholar</a></div>
-          <div><a href="https://github.com/pabloargote" target="_blank">GitHub</a></div>
-        </div>
-
-        <div class="s-divider"></div>
-
-        <div>
-          <div style="font-weight:700;color:var(--muted);font-size:12px">Research interests</div>
-          <div style="margin-top:8px;color:var(--muted);font-size:13px">
-            Political Behavior · Political Attitudes · Immigration · Ideology · Latin America · Quantitative Methods
-          </div>
-        </div>
+      <div class="teach-item">
+        USC — Introduction to Comparative Politics (2024–2026)
       </div>
-    </aside>
+      <div class="teach-item">
+        USC — Comparative Political Institutions
+      </div>
+      <div class="teach-item">
+        Columbia University — TA for Quantitative Methods & Causal Inference
+      </div>
+    </section>
 
-    <main>
-      <!-- HOME -->
-      <section id="home" class="active">
-        <div class="page-header">
-          <div class="eyebrow">Welcome</div>
-          <div class="headline">I study comparative political behavior with a regional focus on Latin America.</div>
-        </div>
+    <!-- CV -->
+    <section id="cv">
+      <div class="page-header">
+        <div class="eyebrow">Curriculum Vitae</div>
+        <div class="headline">PhD, Columbia University (2023)</div>
+      </div>
 
-        <p class="lead">I am a Provost Postdoctoral Fellow in the Department of Political Science at the University of Southern California. My research examines political behavior, ideology, immigration, and public opinion using quantitative methods.</p>
+      <a class="cv-download" href="files/CV.pdf" target="_blank">Download Full CV (PDF)</a>
+    </section>
 
-        <div class="grid-2" style="margin-top:18px">
-          <div>
-            <h3 style="margin-bottom:8px">Selected themes</h3>
-            <ul style="padding-left:18px;color:var(--muted)">
-              <li>How ideology and partisan cues shape attitudes</li>
-              <li>Immigration and its political consequences</li>
-              <li>Attitudes toward policy and misinformation interventions</li>
-            </ul>
-          </div>
+    <!-- MEDIA -->
+    <section id="media">
+      <div class="page-header">
+        <div class="eyebrow">Media</div>
+        <div class="headline">Press & Commentary</div>
+      </div>
 
-          <div>
-            <h3 style="margin-bottom:8px">Quick links</h3>
-            <div style="display:flex;flex-direction:column;gap:8px">
-              <a class="cv-download" href="files/CV.pdf" target="_blank">Download full CV (PDF)</a>
-              <a class="cv-download" href="#research" onclick="showSection('research')">Research — Publications</a>
-              <a class="cv-download" href="#teaching" onclick="showSection('teaching')">Teaching</a>
-            </div>
-          </div>
-        </div>
-      </section>
+      <p>Media appearances and interviews related to research in Latin America.</p>
+    </section>
 
-      <!-- RESEARCH -->
-      <section id="research">
-        <div class="page-header">
-          <div class="eyebrow">Research</div>
-          <div class="headline">Peer-reviewed work and selected publications</div>
-        </div>
+  </main>
+</div>
 
-        <p style="color:var(--muted)">Selected peer-reviewed publications (most recent first):</p>
-        <ul class="pub-list">
-          <li><strong>Argote, P. & Voytas, E.</strong> (2025). “The Anti-Left Legacy of the Pinochet Dictatorship.” Comparative Political Studies.</li>
-          <li><strong>Argote, P. & Visconti, G.</strong> (2025). “Causes and Consequences of Ideological Persistence.” Latin American Politics and Society.</li>
-          <li><strong>Perelló, L., Argote, P., & Navia, P.</strong> (2025). “Shade-Grown Authoritarianism? Revisiting Coffee as a Curse in Latin America and the Caribbean.” Democratization.</li>
-          <li><strong>Argote, P. & Perelló, L.</strong> (2024). “Explaining the Impact of South-South Migration: Evidence from Chile’s Immigration Boom.” Journal of International Migration & Integration.</li>
-          <li><strong>Argote, P. & Daly, S.</strong> (2024). “The Formation of Attitudes Toward Immigration in Colombia.” International Interactions.</li>
-          <li><strong>Argote, P., Marshall, J., Daly, S., Pocasangre, O., Barham, E., & Gerez, J.</strong> (2021). “The Shot, the Message, and the Messenger: COVID-19 Vaccine Acceptance in Latin America.” npj Vaccines.</li>
-        </ul>
+<footer>
+  © <span id="year"></span> Pablo Argote
+</footer>
 
-        <h3 style="margin-top:18px">Research statements & projects</h3>
-        <p style="color:var(--muted)">Work in progress includes projects on ideology, migration, voting gender gaps, and authoritarian indoctrination. For full details and links to papers, see the CV PDF.</p>
-      </section>
+<script>
+document.addEventListener("DOMContentLoaded", function(){
 
-      <!-- TEACHING -->
-      <section id="teaching">
-        <div class="page-header">
-          <div class="eyebrow">Teaching</div>
-          <div class="headline">Courses taught and TA experience</div>
-        </div>
-
-        <div class="teach-list">
-          <div class="teach-item">
-            <strong>USC — Introduction to Comparative Politics</strong>
-            <div style="color:var(--muted);margin-top:4px">Instructor — Fall 2024, Fall 2025, Spring 2026</div>
-          </div>
-
-          <div class="teach-item">
-            <strong>USC — Comparative Political Institutions</strong>
-            <div style="color:var(--muted);margin-top:4px">Instructor — Spring 2026</div>
-          </div>
-
-          <div class="teach-item">
-            <strong>University of Oxford — Evidence in Public Policy</strong>
-            <div style="color:var(--muted);margin-top:4px">Seminar Leader — 2023</div>
-          </div>
-
-          <div class="teach-item">
-            <strong>Columbia University — TA & Courses</strong>
-            <div style="color:var(--muted);margin-top:4px">TA for Quantitative Methods I, Causal Inference, Research Design, Multivariate Regression, Scope & Methods (2018–2021)</div>
-          </div>
-
-          <div class="teach-item">
-            <strong>Universidad Católica de Chile — TA</strong>
-            <div style="color:var(--muted);margin-top:4px">Introduction to Political Theory (2008–2010)</div>
-          </div>
-        </div>
-      </section>
-
-      <!-- CV -->
-      <section id="cv">
-        <div class="page-header">
-          <div class="eyebrow">Curriculum Vitae</div>
-          <div class="headline">PhD in Political Science — Columbia University, 2023</div>
-        </div>
-
-        <a class="cv-download" href="files/CV.pdf" target="_blank">Download full CV (PDF)</a>
-
-        <div style="margin-top:18px">
-          <h4 style="margin-bottom:6px">Employment</h4>
-          <div style="color:var(--muted)">2023–Present: Provost Postdoctoral Fellow, Department of Political Science, University of Southern California</div>
-
-          <h4 style="margin-top:12px;margin-bottom:6px">Education</h4>
-          <ul style="color:var(--muted);padding-left:18px">
-            <li>Ph.D., Political Science — Columbia University, 2023</li>
-            <li>Master in Public Policy — New York University, 2015</li>
-            <li>B.A., Sociology — Universidad Católica de Chile, 2010</li>
-          </ul>
-        </div>
-      </section>
-
-      <!-- MEDIA -->
-      <section id="media">
-        <div class="page-header">
-          <div class="eyebrow">Media</div>
-          <div class="headline">Press & commentary</div>
-        </div>
-
-        <p style="color:var(--muted)">Mentions and interviews about research have appeared in Columbia News and various Spanish-language outlets (La Tercera, Ex-Ante, Tercera Dosis). For press requests, contact the email on the sidebar.</p>
-
-        <ul style="padding-left:18px;color:var(--muted)">
-          <li><a href="#" target="_blank">Columbia News — Coverage of research (link placeholder)</a></li>
-          <li><a href="#" target="_blank">La Tercera — Interview (link placeholder)</a></li>
-        </ul>
-      </section>
-
-      <div style="margin-top:22px;color:var(--muted);font-size:13px">If you want me to include full publication links or place PDF versions of papers on the site, upload them to the `files/` folder and I will update the page to link them.</div>
-
-    </main>
-  </div>
-
-  <footer>
-    <div style="text-align:center">© <span id="year"></span> Pablo Argote — Provost Postdoctoral Fellow, University of Southern California</div>
-  </footer>
-
-  <script>
-    // small JS to switch visible section
-    function showSection(id){
-      document.querySelectorAll('main section').forEach(s=>s.classList.remove('active'));
-      const el = document.getElementById(id);
-      if(el) el.classList.add('active');
-      // update nav active style
-      document.querySelectorAll('header nav a').forEach(a=>a.style.opacity=1);
-      // scroll top of main
-      window.scrollTo({top:0,behavior:'smooth'});
-    }
-
-    // wire header nav
-    document.querySelectorAll('header nav a, nav a').forEach(a=>{
-      a.addEventListener('click', function(e){
-        e.preventDefault();
-        const target = this.getAttribute('data-target') || (this.getAttribute('href')||'').replace('#','');
-        if(target) showSection(target);
-      });
+  function showSection(id){
+    document.querySelectorAll("main section").forEach(s=>{
+      s.classList.remove("active");
     });
 
-    // initialize year
-    document.getElementById('year').textContent = new Date().getFullYear();
-  </script>
+    const target = document.getElementById(id);
+    if(target){
+      target.classList.add("active");
+      history.replaceState(null,null,"#"+id);
+    }
+  }
+
+  document.querySelectorAll("header nav a").forEach(link=>{
+    link.addEventListener("click",function(e){
+      e.preventDefault();
+      const target = this.getAttribute("data-target");
+      if(target){ showSection(target); }
+    });
+  });
+
+  const hash = window.location.hash.replace("#","");
+  if(hash){ showSection(hash); }
+
+  document.getElementById("year").textContent = new Date().getFullYear();
+
+});
+</script>
 
 </body>
 </html>
