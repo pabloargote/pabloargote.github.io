@@ -533,6 +533,7 @@
       <div class="sec-block no-top">
         <h2 class="sec-title">En Espa&ntilde;ol</h2>
         <div class="media-list">
+          <a href="media/elecciones-de-medio-termino-2026.html" class="media-item"><div class="media-outlet">Columna</div><div class="media-div"></div><div class="media-title">Elecciones de medio t&eacute;rmino: claves para entender la elecci&oacute;n &middot; Nov 2026</div></a>
           <a href="https://terceradosis.cl/2025/11/19/serie_-en-que-estaban-pensando-radiografia-de-la-derechizacion-del-electorado-chileno/" class="media-item" target="_blank"><div class="media-outlet">Tercera Dosis</div><div class="media-div"></div><div class="media-title">Radiograf&iacute;a de la derechizaci&oacute;n del electorado chileno &middot; Nov 2025</div></a>
           <a href="https://terceradosis.cl/2025/11/17/serie__en-que-estaban-pensando-un-pais-dividido-por-la-ideologia-y-cansado-de-los-politicos/" class="media-item" target="_blank"><div class="media-outlet">Tercera Dosis</div><div class="media-div"></div><div class="media-title">Un pa&iacute;s dividido por la ideolog&iacute;a y cansado de los pol&iacute;ticos &middot; Nov 2025</div></a>
           <a href="https://www.elmostrador.cl/noticias/opinion/columnas/2025/07/10/la-ideologia-sigue-viva-pero-no-como-la-conociamos/" class="media-item" target="_blank"><div class="media-outlet">El Mostrador</div><div class="media-div"></div><div class="media-title">La ideolog&iacute;a sigue viva, pero no como la conoc&iacute;amos &middot; Jul 2025</div></a>
@@ -635,13 +636,26 @@
 </div>
 
 <script>
-  function show(name) {
+  function show(name, updateHash) {
     document.querySelectorAll('.page').forEach(function(p) { p.classList.remove('active'); });
     document.querySelectorAll('.topnav-links a').forEach(function(a) { a.classList.remove('active'); });
     document.getElementById('page-' + name).classList.add('active');
     document.getElementById('n-' + name).classList.add('active');
+    if (updateHash !== false) {
+      history.replaceState(null, '', name === 'home' ? window.location.pathname : '#' + name);
+    }
     window.scrollTo(0, 0);
   }
+
+  function showFromHash() {
+    var name = window.location.hash.slice(1);
+    if (name && document.getElementById('page-' + name)) {
+      show(name, false);
+    }
+  }
+
+  window.addEventListener('hashchange', showFromHash);
+  showFromHash();
 </script>
 </body>
 </html>
