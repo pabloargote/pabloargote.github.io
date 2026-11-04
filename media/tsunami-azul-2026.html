@@ -1,0 +1,159 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Tsunami azul — Pablo Argote</title>
+<meta name="description" content="Análisis del histórico triunfo del Partido Demócrata en las elecciones de medio término de 2026 en Estados Unidos.">
+<link rel="canonical" href="https://pabloargote.github.io/media/tsunami-azul-2026.html">
+<meta property="og:type" content="article">
+<meta property="og:title" content="Tsunami azul">
+<meta property="og:description" content="Análisis del histórico triunfo demócrata en las elecciones de medio término de 2026.">
+<meta property="og:url" content="https://pabloargote.github.io/media/tsunami-azul-2026.html">
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-0TY10EG87E"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+  gtag('config', 'G-0TY10EG87E');
+</script>
+<link href="https://fonts.googleapis.com/css2?family=Lora:ital,wght@0,400;0,500;0,600;1,400;1,500&family=Jost:wght@300;400;500;600&display=swap" rel="stylesheet">
+<style>
+  :root {
+    --navy: #1b2a3b;
+    --slate: #4a5568;
+    --slate-light: #718096;
+    --cream: #faf9f6;
+    --white: #ffffff;
+    --border: #e4dfd6;
+    --border-light: #ede9e1;
+    --accent: #8b6c42;
+    --accent-light: #c2a47e;
+    --text: #2d3748;
+    --text-light: #505a6b;
+    --nav-h: 54px;
+  }
+
+  * { margin: 0; padding: 0; box-sizing: border-box; }
+  html { scroll-behavior: smooth; }
+  body { font-family: 'Jost', sans-serif; color: var(--text); background: var(--cream); line-height: 1.7; }
+
+  .topnav { position: fixed; inset: 0 0 auto; z-index: 300; height: var(--nav-h); padding: 0 36px; background: var(--navy); display: flex; align-items: center; justify-content: space-between; }
+  .topnav-brand { font-family: 'Lora', serif; font-size: 15.5px; font-weight: 600; color: #fff; text-decoration: none; letter-spacing: .01em; white-space: nowrap; }
+  .topnav-brand em { font-weight: 400; color: var(--accent-light); }
+  .topnav-links { height: var(--nav-h); display: flex; list-style: none; }
+  .topnav-links a { height: 100%; padding: 0 16px; display: flex; align-items: center; color: rgba(255,255,255,.58); text-decoration: none; font-size: 12.5px; font-weight: 500; letter-spacing: .07em; text-transform: uppercase; border-bottom: 2px solid transparent; transition: color .18s, border-color .18s; }
+  .topnav-links a:hover { color: rgba(255,255,255,.9); }
+  .topnav-links a.active { color: #fff; border-bottom-color: var(--accent-light); }
+
+  main { padding: calc(var(--nav-h) + 54px) 28px 72px; }
+  .article { width: min(100%, 780px); margin: 0 auto; }
+  .back-link { display: inline-flex; align-items: center; gap: 8px; margin-bottom: 34px; color: var(--slate-light); text-decoration: none; font-size: 12.5px; font-weight: 500; letter-spacing: .03em; }
+  .back-link:hover { color: var(--accent); }
+  .article-header { padding-bottom: 30px; margin-bottom: 30px; border-bottom: 1px solid var(--border); }
+  .eyebrow { margin-bottom: 12px; color: var(--accent); font-size: 10.5px; font-weight: 600; letter-spacing: .13em; text-transform: uppercase; }
+  h1 { max-width: 740px; color: var(--navy); font-family: 'Lora', serif; font-size: clamp(30px, 5vw, 46px); font-weight: 500; line-height: 1.18; letter-spacing: -.025em; }
+  .byline { margin-top: 20px; display: flex; flex-wrap: wrap; gap: 6px 12px; color: var(--slate-light); font-size: 13px; }
+  .byline strong { color: var(--text); font-weight: 500; }
+  .byline time::before { content: '·'; margin-right: 12px; color: var(--accent-light); }
+  .update-note { margin-bottom: 30px; color: var(--slate-light); font-family: 'Lora', serif; font-size: 13.5px; font-style: italic; }
+
+  .article-body { color: var(--text-light); font-family: 'Lora', serif; font-size: 17px; line-height: 1.9; }
+  .article-body > p { margin-bottom: 24px; }
+  .article-body em { color: var(--text); }
+  .fact-list { margin: 2px 0 30px; padding-left: 25px; }
+  .fact-list li { margin-bottom: 13px; padding-left: 8px; }
+  .fact-list li::marker { color: var(--accent); }
+  .fact-list strong { color: var(--navy); font-weight: 600; }
+
+  .article-footer { margin-top: 56px; padding-top: 20px; border-top: 1px solid var(--border-light); display: flex; justify-content: space-between; gap: 20px; color: var(--slate-light); font-size: 11.5px; }
+
+  @media (max-width: 900px) {
+    .topnav { padding: 0 16px; }
+    .topnav-brand { display: none; }
+    .topnav-links { width: 100%; overflow-x: auto; justify-content: flex-start; scrollbar-width: none; }
+    .topnav-links::-webkit-scrollbar { display: none; }
+    .topnav-links li { flex: 0 0 auto; }
+    .topnav-links a { padding: 0 12px; font-size: 11px; white-space: nowrap; }
+  }
+
+  @media (max-width: 600px) {
+    main { padding: calc(var(--nav-h) + 34px) 20px 48px; }
+    .back-link { margin-bottom: 24px; }
+    .article-header { margin-bottom: 24px; }
+    .article-body { font-size: 16px; line-height: 1.82; }
+    .byline { display: block; }
+    .byline time { display: block; margin-top: 3px; }
+    .byline time::before { display: none; }
+    .article-footer { flex-direction: column; gap: 3px; }
+  }
+</style>
+</head>
+<body>
+
+<nav class="topnav" aria-label="Navegación principal">
+  <a class="topnav-brand" href="../index.html#home">Pablo Argote &nbsp;<em>PhD</em></a>
+  <ul class="topnav-links">
+    <li><a href="../index.html#home">Home</a></li>
+    <li><a href="../index.html#research">Research</a></li>
+    <li><a href="../index.html#teaching">Teaching</a></li>
+    <li><a href="../index.html#cv">CV</a></li>
+    <li><a href="../index.html#media" class="active" aria-current="page">Media</a></li>
+    <li><a href="../index.html#workshop">Survey Research Workshop</a></li>
+  </ul>
+</nav>
+
+<main>
+  <article class="article">
+    <a class="back-link" href="../index.html#media" aria-label="Volver a la sección Media">&#8592; Volver a Media</a>
+
+    <header class="article-header">
+      <div class="eyebrow">Columna &middot; Elecciones de Estados Unidos</div>
+      <h1>Tsunami azul</h1>
+      <div class="byline">
+        <span><strong>Pablo Argote</strong>, <em>Profesor de Ciencia Política, University of Southern California</em></span>
+      </div>
+    </header>
+
+    <p class="update-note">*Datos actualizados a las 8:21 h (hora del Este de Estados Unidos).</p>
+
+    <div class="article-body">
+      <p>El triunfo del Partido Demócrata en las elecciones de medio término no tiene precedente alguno en la historia reciente de Estados Unidos. Según el New York Times, el voto popular favoreció a los demócratas por 13 puntos porcentuales (56% frente al 43%), lo que representa un giro de 16 puntos con respecto a 2024 —sí, tan solo dos años atrás—. Este sería el margen más grande registrado desde 1974, justo después del escándalo de Watergate.</p>
+
+      <p>El dato más relevante es que el cambio fue en todo el país: 412 de 415 distritos se movieron hacia los demócratas (un 99%), con un giro promedio de 14,4 puntos porcentuales y una mediana de 14,1. Es decir, el tsunami arrastró desde la costa progresista hasta el sur rural. En la Cámara de Representantes, se proyecta que los demócratas alcanzarán los 258 escaños, consolidando una de las cifras más altas en décadas. Las encuestas, en consecuencia, se quedaron bastante cortas ante la magnitud de esta transformación.</p>
+
+      <p>En el Senado, el escenario es aún más auspicioso. El sondeo de Siena/NYT mostraba una ventaja demócrata en Michigan, Texas, Ohio, Iowa, Kansas y Maine, aunque parecía difícil que se cumpliera la totalidad de los pronósticos; pues bien, se cumplió todo, y más. Sumado a estos estados, los demócratas ganaron en Carolina del Sur, a la espera de lo que ocurra en Alaska —donde el sistema de voto preferencial (ranked-choice) retrasará el conteo— y en Misisipi, donde la contienda se mantiene prácticamente empatada. De inclinarse a su favor, el Senado quedaría con una mayoría de 55 escaños. Un dato histórico: Kansas tendrá representación senatorial demócrata por primera vez desde 1932.</p>
+
+      <p>En las gobernaciones se observa la misma tendencia. El triunfo más emblemático es el de Gina Hinojosa en Texas, quien derrocó al gobernador en ejercicio y trumpista acérrimo, Greg Abbott. Además, los demócratas vencieron a los gobernadores republicanos en Georgia, Ohio, Iowa y Nevada, quedando a la espera del resultado definitivo en Kansas. Si se trata de hablar de “primeros”, la lista es amplia:</p>
+
+      <ul class="fact-list">
+        <li><strong>Keisha Lance Bottoms:</strong> primera gobernadora negra del país.</li>
+        <li><strong>Abdul El-Sayed:</strong> primer senador musulmán.</li>
+        <li><strong>Chris Pappas:</strong> primer hombre abiertamente gay electo al Senado.</li>
+        <li><strong>Gina Hinojosa:</strong> primera latina en gobernar Texas.</li>
+        <li><strong>Annie Andrews:</strong> primera mujer electa al Senado por Carolina del Sur.</li>
+      </ul>
+
+      <p>Las encuestas a boca de urna (exit polls) ofrecen claves fundamentadas para entender lo ocurrido. El tema central para la ciudadanía sigue siendo la economía (32%), empatado con la preocupación por la democracia (32%). La llamada “crisis del costo de vida” se mantiene como el factor determinante, aunque la inquietud ante el deterioro institucional pesa enormemente, sobre todo entre las bases demócratas. La frivolidad con que Trump ha abordado este tema pareció impactar en las preferencias: un 65% opina que sus políticas han empeorado la situación económica y un 62% considera que el alza de precios es responsabilidad directa de su administración.</p>
+
+      <p>Estos datos también permiten identificar qué grupos demográficos explican el resultado y cómo cambió la brecha electoral respecto a hace dos años. En 2024, Kamala Harris aventajó a Trump por solo 5 puntos entre los votantes latinos (51% frente a 46%). En esta jornada, la ventaja demócrata ascendió a 62% frente a 35%, representando un giro en la brecha de 27 puntos porcentuales. Este viraje está liderado principalmente por los hombres latinos y los menores de 44 años, que experimentaron un cambio de 25 y 36 puntos, respectivamente.</p>
+
+      <p>El caso de Texas resulta emblemático: diversos reportes documentan un descontento generalizado de la población latina con la administración Trump, motivado tanto por el precio de los combustibles como por las políticas de deportación, las cuales han afectado de manera directa los intereses económicos de pequeños y medianos empresarios. Los otros sectores que se volcaron masivamente hacia los demócratas fueron los jóvenes (un cambio de 36 puntos) y las personas con ingresos inferiores a 50 000 dólares anuales (un cambio de 17 puntos).</p>
+
+      <p>¿Se explica esto por una adhesión hacia el Partido Demócrata o por un repudio a Trump? Los propios analistas y voceros del partido en televisión reconocen que se trata predominantemente de lo segundo. En los discursos de victoria de figuras emergentes como James Talarico o Abdul El-Sayed abundaron las menciones a la situación económica por encima de las referencias partidarias. El estratega Chuck Rocha señaló que los latinos en Texas no se movilizaron por mero afecto al partido, sino porque la campaña supo vincular los problemas cotidianos a la gestión del presidente.</p>
+
+      <p>La principal virtud estratégica del partido, entonces, fue mantener la disciplina en el mensaje económico y conectar el alza de precios y el costo de la gasolina a la figura de Trump. Asimismo, la nueva camada de rostros no proyecta la imagen del establishment tradicional que en su momento encarnaron figuras como Clinton, Biden o Harris. Talarico sintetizó esta postura evitando la guerra cultural para centrarse en temas económicos. En una línea similar, el estratega demócrata de Iowa J.D. Scholten acuño el término “populismo de la pradera”, enfocado en costo de vida, salud y antimonopolios agrarios.</p>
+
+      <p>¿Qué cabe esperar a partir de ahora? En primer lugar, dada la contundencia de los resultados, el liderazgo republicano tendrá que asumir la realidad de las urnas. Cuando se instale el nuevo Congreso en 2027, se prevé una exhaustiva labor de fiscalización sobre las acciones del Ejecutivo, abarcando desde las operaciones de ICE y las políticas arancelarias hasta los casos de corrupción. El Congreso ejercerá de lleno su facultad de citación (subpoena power). Asimismo, es previsible una paulatina desafección en las filas republicanas, cuyos integrantes comenzarán a ver a la presidencia como un pato cojo con miras al próximo ciclo electoral. No se proyectan tiempos pacíficos en lo político, pero sí un escenario con contrapesos institucionales mucho más firmes, donde el Partido Demócrata asuma la responsabilidad ineludible de ofrecer soluciones concretas al costo de la vida.</p>
+    </div>
+
+    <footer class="article-footer">
+      <span>&copy; 2026 Pablo Argote</span>
+      <span>University of Southern California &middot; Los Angeles, CA</span>
+    </footer>
+  </article>
+</main>
+
+</body>
+</html>
